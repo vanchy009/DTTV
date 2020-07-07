@@ -1706,5 +1706,5 @@ http://39.134.52.180/PLTV/88888888/224/3221225883/index.m3u8
 #EXTINF:-1,百视通 BesTV超级体育 (Backup)
 http://39.134.52.180/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8
 
-#EXTINF:-1,TEST
-http://mobile.interface.stmg.net.kh/nn_cms/nn_cms_view/jpz/n3_a_a.php?nns_version=2.3.7.0.2.SC-JPZ-IPAD.0.0_Release&nns_output_type=json&nns_user_agent=nn_pad/ipad/1.0.0&nns_language=en_US&nns_tag=28&nns_user_id=IPADB123456789089756745634523456&nns_device_id=&nns_buss_id=2000002&nns_category_id=1000001&nns_func=apply_play_video&nns_mac_id=112233445566&nns_media_assets_id=pad_live_v1&nns_media_id=51cb3efed11a0094944cc78c7f950fdd&nns_video_id=305c725d29f8e7b9684e09e9d463669e&nns_video_index=0&nns_video_type=1
+#EXTINF:-1,TEST CTN
+http://103.242.12.31:5000/nn_live/nn_x64/aWQ9Q1ROLW0taCZ1cmxfYzE9MjAwMCZubl9haz0wMTUxYWNmYjIwYjRmYzczMWZlYjIwMWJmODA3ZjRjZDRmJm50dGw9NCZucGlwcz0xMDMuMjQyLjEyLjIxOjUxMDAmbmNtc2lkPTEwMDAzMSZuZ3M9NWYwNDVmMGQwMDA5Yjg0MjQwYzBjMDczY2M1YmM1NzAmbm5kPWV4dHJhbmV0Jm5mdD10cyZubl91c2VyX2lkPUlQQURCMTIzNDU2Nzg5MDg5NzU2NzQ1NjM0NTIzNDU2Jm5kdD1wYWQmbmR2PTIuMy43LjAuMi5TQy1KUFotSVBBRC4wLjBfUmVsZWFzZSZuc3Q9aXB0diZubl90cmFjZV9pZD01ZjA0NWYwZDI0OWY4NmY1MGMwNTRhOTA5YTczZjUyZSZuY2E9JTI2bm5fY3AlM2RzdXBlcm5ldCZuYWw9MDEwZDVmMDQ1ZjA2MDdmZWZjMmZiN2FlYTc3Njc4NjIyYmI2NWY5OTBjNWU3Yg,,/CTN-m-h.ts
