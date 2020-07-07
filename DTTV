@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,BTV
+#EXTINF:-1,B TV
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
 
 #EXTINF:-1,Bayon TV
