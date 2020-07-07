@@ -17,6 +17,9 @@ http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w
 #EXTINF:-1,TV5 Cambodia
 http://203.176.130.123:8989/live/tv5_480k.stream/chunklist_w1394118575.m3u8
 
+#EXTINF:-1,SEATV
+http://96.9.77.79:1935/live/SEATV/chunklist_w1661522455.m3u8
+
 #EXTINF:-1,PNN
 http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
 
