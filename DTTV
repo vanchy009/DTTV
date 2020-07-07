@@ -23,6 +23,9 @@ http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
 #EXTINF:-1,TV9
 http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8
 
+#EXTINF:-1,APSARATV
+ttp://203.176.130.123:8989/live/apsaratv_480k.stream/chunklist_w745929414.m3u8
+
 #EXTINF:-1,TVK
 http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8
 
