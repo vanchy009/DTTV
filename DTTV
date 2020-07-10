@@ -1738,3 +1738,6 @@ http://39.134.52.180/PLTV/88888888/224/3221225883/index.m3u8
 
 #EXTINF:-1,百视通 BesTV超级体育 (Backup)
 http://39.134.52.180/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8
+
+#EXTINF:-1,КТРК Спорт
+http://192.168.8.192:1935/live/dttv/playlist.m3u8
