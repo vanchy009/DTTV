@@ -8,9 +8,6 @@ http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
 #EXTINF:-1,Fresh News TV
 http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
 
-#EXTINF:-1,DTTV
-https://cdnvideo.webvideocore.net/enc4_lbbds55h2vv52e0ud79qkgotglgau58sa6jvlvr4cfcacpnebucbbq7k4pa1h2m1pq7dud4oirkagg0es7anbe5v6ggoalelsqohn92avfui6f72cpv3b04c60vtntae6/index.m3u8
-
 #EXTINF:-1,HangMeas
 http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w660255627_b1800000_sleng.m3u8
 
