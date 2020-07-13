@@ -32,6 +32,9 @@ http://103.242.12.32:5000/nn_live/nn_x64/aWQ9Y25jLW0taCZ1cmxfYzE9MjAwMCZubl9haz0
 #EXTINF:-1,TV5 Cambodia
 http://203.176.130.123:8989/live/tv5_480k.stream/chunklist_w1394118575.m3u8
 
+#EXTINF:-1,CTV 8 Cambodia
+http://220.158.149.26:8182/hls/TV00000000000000000142@HHZT.m3u8
+
 #EXTINF:-1,SEATV
 http://96.9.77.79:1935/live/SEATV/chunklist_w1661522455.m3u8
 
