@@ -17,7 +17,7 @@ http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w
 #EXTINF:-1,WIKI TV
 http://206.189.93.160:1935/live/myStream_720p/chunklist_w30966956.m3u8
 
-#EXTINF:-1,WIKI TV
+#EXTINF:-1,DTTV
 https://usb.bozztv.com/DTTV/index.m3u8
 
 #EXTINF:-1,CTN
