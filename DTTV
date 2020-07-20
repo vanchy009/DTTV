@@ -89,14 +89,11 @@ http://36.37.252.114:888/Apple/OneTV-055/playlist.m3u8
 #EXTINF:-1,One TV Eschool
 http://36.37.252.116:7788/live/OneTV-013.m3u8
 
-#EXTINF:-1,DTTV
-https://tna5.bozztv.com/DTTV/index.m3u8
-
 #EXTINF:-1,MSJ TV
 rtmp://124.248.165.18:1935/live/myStream playpath=myStream swfUrl=http://msjtv.asia/Scripts/player/6.11/player.flash.swf live=true
 
-#EXTINF:-1,Khmer TV
-http://36.37.252.116:7788/live/OneTV-023.m3u8
+#EXTINF:-1,DTTV
+http://210.210.155.35/session/4db2efc6-cad3-11ea-a54b-80eeb733f38a/dr9445/h/h144/01.m3u8
 
 #EXTINF:-1,CGNTV Japan
 http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
