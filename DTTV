@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,BTV
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+http://36.37.252.116:7788/live/OneTV-017.m3u8
 
 #EXTINF:-1,Bayon TV
 http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
@@ -51,7 +51,7 @@ http://103.242.12.32:5000/nn_live/nn_x64/aWQ9ZXR2LW0taCZ1cmxfYzE9MjAwMCZubl9haz0
 http://36.37.252.116:7788/live/OneTV-018.m3u8
 
 #EXTINF:-1,TVK
-http://203.176.130.123:8989/live/tvk_480k.stream/chunklist.m3u8
+http://36.37.252.116:7788/live/OneTV-017.m3u8
 
 #EXTINF:-1,TVK 2
 http://178.128.26.123:1935/elearning/SMIL:myStream.smil/playlist.m3u8
@@ -64,6 +64,33 @@ http://36.37.252.116:7788/live/OneTV-023.m3u8
 
 #EXTINF:-1,Town TV HD
 http://36.37.252.116:7788/live/OneTV-024.m3u8
+
+#EXTINF:-1,One TV Cinema
+http://36.37.252.114:888/Apple/OneTV-004/playlist.m3u8
+
+#EXTINF:-1,One TV Drama
+http://36.37.252.114:888/Apple/OneTV-003/playlist.m3u8
+
+#EXTINF:-1,One TV Kids
+http://36.37.252.114:888/Apple/OneTV-002/playlist.m3u8
+
+#EXTINF:-1,One TV Music
+http://36.37.252.114:888/Apple/OneTV-006/playlist.m3u8
+
+#EXTINF:-1,One TV discovery
+http://36.37.252.114:888/Apple/OneTV-007/playlist.m3u8
+
+#EXTINF:-1,One TV Movie
+http://36.37.252.114:888/Apple/OneTV-005/playlist.m3u8
+
+#EXTINF:-1,One TV Sport
+http://36.37.252.114:888/Apple/OneTV-058/playlist.m3u8
+
+#EXTINF:-1,One TV Sport 11
+http://36.37.252.114:888/Apple/OneTV-055/playlist.m3u8
+
+#EXTINF:-1,One TV Eschool
+http://36.37.252.116:7788/live/OneTV-013.m3u8
 
 #EXTINF:-1,Nice TV
 http://103.242.12.31:5000/nn_live/nn_x64/aWQ9TmljZVRWLU1vYmlsZSZ1cmxfYzE9MjAwMCZubl9haz0wMTA2NTdhMTM5MWY0ZTVlYjg1ODliM2YyN2UyYTM3NzBlJm50dGw9NCZucGlwcz0xMDMuMjQyLjEyLjIxOjUxMDAmbmNtc2lkPTEwMDAzMSZuZ3M9NWYwZThhNTMwMDAxMWYxOWEyM2VlZmMzMDhjZjkzMDgmbm5kPWV4dHJhbmV0Jm5mdD10cyZubl91c2VyX2lkPUlQQURCMTIzNDU2Nzg5MDg5NzU2NzQ1NjM0NTIzNDU2Jm5kdD1wYWQmbmR2PTIuMy43LjAuMi5TQy1KUFotSVBBRC4wLjBfUmVsZWFzZSZuc3Q9aXB0diZubl90cmFjZV9pZD01ZjBlOGE1MzFhNTRkYjRmZmEwZmM1YjExMGQ5YTY1MiZuY2E9JTI2bm5fY3AlM2RzdXBlcm5ldCZuYWw9MDE1MzhhMGU1ZjA2MDc1MjMyZDA2YWU2N2JlZDQ5MjA3MGU5YWFmMDEyMTU0Yg,,/NiceTV-Mobile.ts
