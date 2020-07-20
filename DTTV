@@ -92,7 +92,7 @@ http://36.37.252.116:7788/live/OneTV-013.m3u8
 #EXTINF:-1,MSJ TV
 rtmp://124.248.165.18:1935/live/myStream playpath=myStream swfUrl=http://msjtv.asia/Scripts/player/6.11/player.flash.swf live=true
 
-#EXTINF:-1,DTTV
+#EXTINF:-1,AnimaxTV
 http://210.210.155.35/session/4db2efc6-cad3-11ea-a54b-80eeb733f38a/dr9445/h/h144/01.m3u8
 
 #EXTINF:-1,CGNTV Japan
