@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,BTV
-http://36.37.252.116:7788/live/OneTV-017.m3u8
+http://36.37.252.116:7788/live/OneTV-012.m3u8
 
 #EXTINF:-1,Bayon TV
 http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8
