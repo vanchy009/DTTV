@@ -24,7 +24,7 @@ http://36.37.252.116:7788/live/OneTV-008.m3u8
 http://36.37.252.116:7788/live/OneTV-009.m3u8
 
 #EXTINF:-1,CNC
-http://203.144.66.242/live/live010/s.m3u8
+http://36.37.252.114:888/Apple/OneTV-010/playlist.m3u8
 
 #EXTINF:-1,One tv Sabay
 http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
