@@ -18,7 +18,7 @@ http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w
 http://206.189.93.160:1935/live/myStream_720p/chunklist_w30966956.m3u8
 
 #EXTINF:-1,DTTV
-https://tna5.bozztv.com/DTTV/index.m3u8
+https://cdnvideo.webvideocore.net/enc4_lff4cpg0t3hvl4bmv7m478hirtfeabsidfed4fut1bhctq6dtob2gck68mo64m6914v4vu369uijotu5sougs76410h0ol6hrbl05f4aoia28d7hgitr1qccjakun2gpo/index.m3u8
 
 #EXTINF:-1,CTN
 http://36.37.252.116:7788/live/OneTV-008.m3u8
