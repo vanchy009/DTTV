@@ -34,11 +34,11 @@ http://36.37.252.116:7788/live/OneTV-017.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="https://lh3.googleusercontent.com/ONbwr0Zlj4CigpIXVpR647wrmz95p8nbcATnRmQ_k4IvSmaF2QHxudrV-eNrnoVkBcAi=s180-rw",TVK 2
 http://178.128.26.123:1935/elearning/SMIL:myStream.smil/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/TV3-Cambodia.png",TV3 Cambodia
-http://36.37.252.116:7788/live/OneTV-020.m3u8
+http://36.37.252.114:888/Apple/OneTV-020/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/ETV-Cambodia.png",ETV Cambodia
 http://203.176.130.123:8989/live/etv_480k.stream/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/NTV-Cambodia.png",NTV
-http://36.37.252.116:7788/live/OneTV-023.m3u8
+http://36.37.252.114:888/Apple/OneTV-023/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/Town-TV.png",Town TV HD
 http://36.37.252.116:7788/live/OneTV-024.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/OneTV-Cinema.png",One TV Cinema
