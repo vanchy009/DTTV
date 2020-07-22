@@ -1765,3 +1765,6 @@ http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
 
 #EXTINF:-1,百视通 BesTV超级体育
 http://39.134.52.180/PLTV/88888888/224/3221225883/index.m3u8
+
+#EXTINF:-1,TEST
+http://51.158.66.44/hls/stream.m3u8
