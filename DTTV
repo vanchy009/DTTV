@@ -4174,3 +4174,4495 @@ http://39.134.52.180/PLTV/88888888/224/3221225883/index.m3u8
 http://39.134.52.180/wh7f454c46tw3571653152_-2066612672/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226023/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://img.isuper.tv/live-tv/vl-sports-live.jpg" tvg-country="TW" tvg-url="" group-title="Sport",緯來體育台
 http://220.158.149.14:9999/live/TV00000000000000000078@HHZT;LIVE
+#EXTINF:-1 ,KANAL D HD
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/chunklist_b1314000.m3u8
+#EXTINF:-1 ,STAR TV HD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,TEVE2
+https://soledge13.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:-1 ,YOL TV
+http://stream.yol.tv:9485/medialive/yol.m3u8
+#EXTINF:-1 ,24 TV
+https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist_b896000.m3u8?__mn_sid=8997673748844384653
+#EXTINF:-1 ,TVNET
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
+#EXTINF:-1 ,RT NEWS
+https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
+#EXTINF:-1 ,NR1 TURK HD
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e187779c76_1/playlist.m3u8
+#EXTINF:-1 ,NR1 ASK
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 ,NR1 DAMAR
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
+#EXTINF:-1 ,POWER TURK TV
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b1428000_sltur.m3u8
+#EXTINF:-1 ,KRAL TV POP HD
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 ,KRAL HD
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1 ,TGRT BELGESEL
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/chunklist_w1644874314.m3u8
+#EXTINF:-1 ,MERKEZ TV
+http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/chunklist_w1585059352_b664000_sltur.m3u8
+#EXTINF:-1 ,CAY TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/chunklist_w1172854629.m3u8
+#EXTINF:-1 ,ARAS TV
+https://59cba4d34b678.streamlock.net/canlitv/arastv/chunklist_w1029014061.m3u8
+#EXTINF:-1 ,ALTAS TV
+https://broadcasttr.com:446/altastv/bant1/chunklist_w1478482566.m3u8
+#EXTINF:-1 ,VUSLAT TV
+https://mn-nl.mncdn.com/blutv_vuslattv/smil:vuslattv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 ,AKIT TV HD
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1 ,VIZYON 58
+https://waw2.artiyerelmedya.net/vizyon58/bant1/playlist.m3u8
+#EXTINF:-1 ,AZE:QƏBƏLƏ TV
+https://qebele.tv/live/stream/index.m3u8
+#EXTINF:-1 ,AZE:AZGEO TV
+https://tv.cdn.xsg.ge/gpb-streaming/azer/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,AZE:ELTV
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8
+#EXTINF:-1 ,AZE:AZAD AZERBAYCAN HD
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:-1 ,AZE :AZAD AZERBAYCAN 2 SAAT
+http://streams.livetv.az/azerbaijan/atv_sd_stream4/playlist.m3u8
+#EXTINF:-1 ,AZE:LIDER TV
+http://streams.livetv.az/azerbaijan/lider_stream/playlist.m3u8
+#EXTINF:-1 ,AZE:XEZER TV
+http://streams.livetv.az/azerbaijan/xazar_sd_stream_2/playlist.m3u8
+#EXTINF:-1 ,AZE:DUNYA TV
+http://streams.livetv.az/azerbaijan/dunya/playlist.m3u8
+#EXTINF:-1 ,AZE:DALGA TV
+http://streams.livetv.az/azerbaijan/dalga/playlist.m3u8
+#EXTINF:-1 ,AZE:REAL TV
+http://streams.livetv.az/azerbaijan/real/playlist.m3u8
+#EXTINF:-1 ,AZE:NAXCIVAN TV
+http://streams.livetv.az/azerbaijan/nax/playlist.m3u8
+#EXTINF:-1 ,AZE:QAFQAZ TV
+http://streams.livetv.az/azerbaijan/qafqaztv/playlist.m3u8
+#EXTINF:-1 ,AZE:ARB 24
+http://streams.livetv.az/azerbaijan/24/playlist.m3u8
+#EXTINF:-1 ,AZE:ARB GUNES TV
+http://streams.livetv.az/azerbaijan/gunes/playlist.m3u8
+#EXTINF:-1 ,AZE: ARB TV
+http://streams.livetv.az/azerbaijan/arb/playlist.m3u8
+#EXTINF:-1 ,AZE:AZ TV HD
+http://streams2.livetv.az/azerbaijan/aztvhd/playlist.m3u8
+#EXTINF:-1 ,AZE:AZ TV SD
+http://streams.livetv.az/azerbaijan/aztv_stream2/playlist.m3u8
+#EXTINF:-1 ,AZE:CBC SPORT HD
+http://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:-1 ,AZE:ICTIMAI TV
+http://streams.livetv.az/azerbaijan/ictimai_stream2/playlist.m3u8
+#EXTINF:-1 ,AZE:LIVE TV HD
+http://streams.livetv.az/azerbaijan/ruslana_sd/playlist.m3u8
+#EXTINF:-1 ,AZE:MEDENIYET TV HD
+http://streams.livetv.az/azerbaijan/medeniyyet_stream2/playlist.m3u8
+#EXTINF:-1 ,AZE: UMUD TV
+https://cdn-umudtv.yayin.com.tr/umudtv/umudtv_480p/playlist.m3u8
+#EXTINF:-1 ,AZE:UMUD SHOW TV
+https://cdn-utvshow.yayin.com.tr/utvshow/utvshow_480p/playlist.m3u8
+#EXTINF:-1 ,AZE:KEPEZ GENCE
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 ,AZE:INTER AZ
+http://yayin.netradyom.com:1935/live/interaz/playlist.m3u8
+#EXTINF:-1 ,AZE:AL ZAHRA TV
+http://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 ,AZE:HADI TV
+https://5e74a9d684b2e.streamlock.net/liveTrans/channel3/chunklist_w.m3u8
+#EXTINF:-1 ,AZE:BAKU TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+#EXTINF:-1 ,AZE:ON4
+http://yayin.netradyom.com:1935/live/on4/chunklist_w502451133.m3u8
+#EXTINF:-1 ,AZE:STAR TV SD
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:-1 ,AZE:KANAL 12 AZ
+http://yayin.netradyom.com:1935/live/kanal12/playist.m3u8
+#EXTINF:-1 ,GR: ANT1 HD
+https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
+#EXTINF:-1 ,MEX: AZ Cinema
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8468
+#EXTINF:-1 ,MEX: TVC Deportes
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8470
+#EXTINF:-1 ,MEX: De Pelicula Plus
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8471
+#EXTINF:-1 ,MEX: Morbido TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8472
+#EXTINF:-1 ,MEX: Adrenalina Sports Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8473
+#EXTINF:-1 ,MEX: Golden (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8476
+#EXTINF:-1 ,MEX: Europa Europa (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8477
+#EXTINF:-1 ,MEX: TUDN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8478
+#EXTINF:-1 ,MEX: havoc
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8484
+#EXTINF:-1 ,MEX: AYM Sports
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8486
+#EXTINF:-1 ,MEX: Latin American Sports
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8487
+#EXTINF:-1 ,MEX: Milenio TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8488
+#EXTINF:-1 ,MEX: El Financiero Bloomberg
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8491
+#EXTINF:-1 ,MEX: RT
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8492
+#EXTINF:-1 ,MEX: RT En Espanol
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8493
+#EXTINF:-1 ,MEX: Excelsior TV (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8494
+#EXTINF:-1 ,MEX: Bloomberg TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8495
+#EXTINF:-1 ,MEX: BBC World News
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8496
+#EXTINF:-1 ,MEX: Al Jazeera
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8497
+#EXTINF:-1 ,MEX: NTN24 (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8498
+#EXTINF:-1 ,MEX: Canal Del Congreso
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8499
+#EXTINF:-1 ,MEX: Justicia TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8500
+#EXTINF:-1 ,MEX: HLN (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8501
+#EXTINF:-1 ,MEX: tve Internacional (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8502
+#EXTINF:-1 ,MEX: DW Espanol (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8504
+#EXTINF:-1 ,MEX: Atreseries Internacional
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8505
+#EXTINF:-1 ,MEX: star tve
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8506
+#EXTINF:-1 ,MEX: France 24
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8507
+#EXTINF:-1 ,MEX: MTV Live HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8508
+#EXTINF:-1 ,MEX: Telehit Plus
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8509
+#EXTINF:-1 ,MEX: AZ Clic!
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8510
+#EXTINF:-1 ,MEX: MTV Hits (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8511
+#EXTINF:-1 ,MEX: Telehit Urbano (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8512
+#EXTINF:-1 ,MEX: Teleritmo (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8513
+#EXTINF:-1 ,Racing TV (Australia)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4949
+#EXTINF:-1 ,SPORTS: GolTV (Spanish)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5488
+#EXTINF:-1 ,USA LOCAL News 12 (Long Island)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1679
+#EXTINF:-1 ,D.C. NBC (WRCDT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5490
+#EXTINF:-1 ,DSTV: 1Magic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4661
+#EXTINF:-1 ,DSTV: TRACE Africa
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4662
+#EXTINF:-1 ,DSTV: Vuzu
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4663
+#EXTINF:-1 ,DSTV: Africa Magic Urban
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4664
+#EXTINF:-1 ,DSTV: One Gospel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4665
+#EXTINF:-1 ,DSTV: kykNET & Kie
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4667
+#EXTINF:-1 ,DSTV: kykNET Nou!
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4668
+#EXTINF:-1 ,DSTV: Channel O
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4669
+#EXTINF:-1 ,NONE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/64
+#EXTINF:-1 ,USA: 90 Plus TV (Test)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7395
+#EXTINF:-1 ,USA: A&E.
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/896
+#EXTINF:-1 ,USA: AccuWeather
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2351
+#EXTINF:-1 ,USA: Active TV (Test)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7396
+#EXTINF:-1 ,USA: AMC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/32
+#EXTINF:-1 ,USA: American Heroes Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/346
+#EXTINF:-1 ,USA: American Wealth Ent (AWE)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2167
+#EXTINF:-1 ,USA: AMG TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7413
+#EXTINF:-1 ,USA: Antenna
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/24
+#EXTINF:-1 ,USA: Aspire
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7
+#EXTINF:-1 ,USA: AXS TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/432
+#EXTINF:-1 ,USA: BBC America
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/59
+#EXTINF:-1 ,USA: BBC World News
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/348
+#EXTINF:-1 ,USA: BET East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/114
+#EXTINF:-1 ,USA: BET Gospel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/433
+#EXTINF:-1 ,USA: BET Her
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/51
+#EXTINF:-1 ,USA: BET Jams
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/52
+#EXTINF:-1 ,USA: BET Soul
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/53
+#EXTINF:-1 ,USA: Biz Tv (Test)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7373
+#EXTINF:-1 ,USA: Black News Channel (BNC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6238
+#EXTINF:-1 ,USA: BlackHole Tv (Test)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7397
+#EXTINF:-1 ,USA: Bounce TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/21
+#EXTINF:-1 ,USA: Bravo
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/350
+#EXTINF:-1 ,USA: Bravo West
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/351
+#EXTINF:-1 ,USA: BuzzR
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2166
+#EXTINF:-1 ,USA: C-SPAN 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1780
+#EXTINF:-1 ,USA: C-SPAN 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4978
+#EXTINF:-1 ,USA: C-Span 3
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8432
+#EXTINF:-1 ,USA: California Music Channel (CMC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7485
+#EXTINF:-1 ,USA: Celebrity Sweat TV (Test)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7402
+#EXTINF:-1 ,USA: Cheddar Business
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/354
+#EXTINF:-1 ,USA: Cheddar News
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/355
+#EXTINF:-1 ,USA: Classic Arts Showcase
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7486
+#EXTINF:-1 ,USA: CMT East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2156
+#EXTINF:-1 ,USA: CNBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/357
+#EXTINF:-1 ,USA: CNBC World
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/358
+#EXTINF:-1 ,USA: Comedy.TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6374
+#EXTINF:-1 ,USA: Comet
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/359
+#EXTINF:-1 ,USA: Cooking Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/360
+#EXTINF:-1 ,USA: Country TV (Test)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7399
+#EXTINF:-1 ,USA: Court TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2147
+#EXTINF:-1 ,USA: CourtTV Mystery
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5850
+#EXTINF:-1 ,USA: Cowboy Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2130
+#EXTINF:-1 ,USA: Cozi TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1885
+#EXTINF:-1 ,USA: Crime & Investigation Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5869
+#EXTINF:-1 ,USA: CuriosityStream
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8464
+#EXTINF:-1 ,USA: CW KTLA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/3
+#EXTINF:-1 ,USA: CW Philly
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2500
+#EXTINF:-1 ,USA: CW Washington
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2501
+#EXTINF:-1 ,USA: DayStar
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/25
+#EXTINF:-1 ,USA: Decades East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7468
+#EXTINF:-1 ,USA: Destination America
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/361
+#EXTINF:-1 ,USA: DIY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/374
+#EXTINF:-1 ,USA: Dog TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1783
+#EXTINF:-1 ,USA: E! Entertainment East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/375
+#EXTINF:-1 ,USA: E! Entertainment West
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/376
+#EXTINF:-1 ,USA: Edgy TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7202
+#EXTINF:-1 ,USA: EDM TV Miami (Test)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7400
+#EXTINF:-1 ,USA: Epidemic TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7401
+#EXTINF:-1 ,USA: Exercise 4U
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7483
+#EXTINF:-1 ,USA: Florida Keys
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7370
+#EXTINF:-1 ,USA: FM
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5870
+#EXTINF:-1 ,USA: Folk TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8183
+#EXTINF:-1 ,USA: Free Speech TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7221
+#EXTINF:-1 ,USA: Freeform East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5819
+#EXTINF:-1 ,USA: Freeform West
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/381
+#EXTINF:-1 ,USA: Fuse
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4947
+#EXTINF:-1 ,USA: Fusion
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/382
+#EXTINF:-1 ,USA: FXX
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/386
+#EXTINF:-1 ,USA: Game Show Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/334
+#EXTINF:-1 ,USA: Get TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5844
+#EXTINF:-1 ,USA: Great American Country (GAC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/434
+#EXTINF:-1 ,USA: Greenboro Tv Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6878
+#EXTINF:-1 ,USA: Gusto TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8427
+#EXTINF:-1 ,USA: Hallmark Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/389
+#EXTINF:-1 ,USA: Hallmark Drama
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/390
+#EXTINF:-1 ,USA: Heroes & Icons East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7163
+#EXTINF:-1 ,USA: Heroes & Icons West
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5845
+#EXTINF:-1 ,USA: History Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/16
+#EXTINF:-1 ,USA: HLN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/392
+#EXTINF:-1 ,USA: Hollywire
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8430
+#EXTINF:-1 ,USA: Hot Rock TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7490
+#EXTINF:-1 ,USA: HSN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7024
+#EXTINF:-1 ,USA: HSN 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7025
+#EXTINF:-1 ,USA: Hunt Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5498
+#EXTINF:-1 ,USA: IFC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/393
+#EXTINF:-1 ,USA: Info Wars
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8182
+#EXTINF:-1 ,USA: Insp
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2129
+#EXTINF:-1 ,USA: ION
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/11
+#EXTINF:-1 ,USA: ION Plus
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6294
+#EXTINF:-1 ,USA: Label TV 2 (Test)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7409
+#EXTINF:-1 ,USA: LAFF
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/23
+#EXTINF:-1 ,USA: Law and Crime
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/396
+#EXTINF:-1 ,USA: Leominster Education
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6876
+#EXTINF:-1 ,USA: Leominster Government
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6877
+#EXTINF:-1 ,USA: Leominster Public Stream
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6392
+#EXTINF:-1 ,USA: Lifetime
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/17
+#EXTINF:-1 ,USA: Lifetime Movie Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/544
+#EXTINF:-1 ,USA: Lifetime Real Women (LRW)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5892
+#EXTINF:-1 ,USA: Logo East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/545
+#EXTINF:-1 ,USA: Lone Star Classics
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8426
+#EXTINF:-1 ,USA: MeTV West
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6348
+#EXTINF:-1 ,USA: MeTV East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/20
+#EXTINF:-1 ,USA: Military History
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/435
+#EXTINF:-1 ,USA: Motor Trend
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/33
+#EXTINF:-1 ,USA: MSNBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/397
+#EXTINF:-1 ,USA: MTV East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/119
+#EXTINF:-1 ,USA: MTV Classic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2168
+#EXTINF:-1 ,USA: MTV LIVE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2171
+#EXTINF:-1 ,USA: MTV2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2170
+#EXTINF:-1 ,USA: MTVU
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2169
+#EXTINF:-1 ,USA: NASA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6342
+#EXTINF:-1 ,USA: NBC News Now (Test)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6896
+#EXTINF:-1 ,USA: NewsMax
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4979
+#EXTINF:-1 ,USA: Newsy
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5417
+#EXTINF:-1 ,USA: NRB TV (Test)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7407
+#EXTINF:-1 ,USA: OK TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7489
+#EXTINF:-1 ,USA: One American News (OAN)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1887
+#EXTINF:-1 ,USA: Outdoor Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/338
+#EXTINF:-1 ,USA: Outside TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/402
+#EXTINF:-1 ,USA: Ovation
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/548
+#EXTINF:-1 ,USA: OWN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/54
+#EXTINF:-1 ,USA: Oxygen East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/55
+#EXTINF:-1 ,USA: Oxygen West
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/403
+#EXTINF:-1 ,USA: Paramount Network East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1882
+#EXTINF:-1 ,USA: PBS 17 (WNED)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7159
+#EXTINF:-1 ,USA: People TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5484
+#EXTINF:-1 ,USA: PIX 11
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/121
+#EXTINF:-1 ,USA: Pixl
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/339
+#EXTINF:-1 ,USA: POP
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/404
+#EXTINF:-1 ,USA: Popstar TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7043
+#EXTINF:-1 ,USA: Pursuit channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1695
+#EXTINF:-1 ,USA: QVC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/340
+#EXTINF:-1 ,USA: QVC 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5868
+#EXTINF:-1 ,USA: Race Central TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7484
+#EXTINF:-1 ,USA: Red Bull TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2149
+#EXTINF:-1 ,USA: Red Roof Television (Test)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7408
+#EXTINF:-1 ,USA: Reelz
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/549
+#EXTINF:-1 ,USA: Retro TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2148
+#EXTINF:-1 ,USA: Revolt
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1883
+#EXTINF:-1 ,USA: RFD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/761
+#EXTINF:-1 ,USA: Ride TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1694
+#EXTINF:-1 ,USA: Right Now TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7487
+#EXTINF:-1 ,USA:  Rooster Teeth TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7493
+#EXTINF:-1 ,USA: Science
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/367
+#EXTINF:-1 ,USA: She TV (Test)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6900
+#EXTINF:-1 ,USA: Smithsonian Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/405
+#EXTINF:-1 ,USA: Sony Movie Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/406
+#EXTINF:-1 ,USA: Spectrum News 1 West
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/3064
+#EXTINF:-1 ,USA: Sportsman Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/341
+#EXTINF:-1 ,USA: Spotlight
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7203
+#EXTINF:-1 ,USA: Local Now
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7488
+#EXTINF:-1 ,USA: Start TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/36
+#EXTINF:-1 ,USA: Sundance
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/422
+#EXTINF:-1 ,USA: Tastemade
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8267
+#EXTINF:-1 ,USA: The Film Detective
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7042
+#EXTINF:-1 ,USA: The Weather Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9
+#EXTINF:-1 ,USA: TMZ
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6391
+#EXTINF:-1 ,USA: Travel Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/413
+#EXTINF:-1 ,USA: Travel Channel (Pacific)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/414
+#EXTINF:-1 ,USA: TV Land East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/120
+#EXTINF:-1 ,USA: TV Land Drama
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6885
+#EXTINF:-1 ,USA: TV ONE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/116
+#EXTINF:-1 ,USA: TVW
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6905
+#EXTINF:-1 ,USA: TVW 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6906
+#EXTINF:-1 ,USA: Universo
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/871
+#EXTINF:-1 ,USA: UP TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/760
+#EXTINF:-1 ,USA: USA Network East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/48
+#EXTINF:-1 ,USA: VH1 East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/115
+#EXTINF:-1 ,USA: Viceland.
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5721
+#EXTINF:-1 ,USA: VSIN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5395
+#EXTINF:-1 ,USA: WE TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/421
+#EXTINF:-1 ,USA: WeatherNation
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1782
+#EXTINF:-1 ,USA: WGN America
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8954
+#EXTINF:-1 ,USA: World Fishing Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/342
+#EXTINF:-1 ,USA: YANGA!
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7206
+#EXTINF:-1 ,USA: Z Classic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5894
+#EXTINF:-1 ,USA: Z Living
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8268
+#EXTINF:-1 ,LBW: EPIX Hits
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6973
+#EXTINF:-1 ,KIDS: Baby First (MEX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8459
+#EXTINF:-1 ,KIDS: Baby First TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/423
+#EXTINF:-1 ,KIDS: bitMe (MEX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8462
+#EXTINF:-1 ,KIDS: Cartoons 4U
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7491
+#EXTINF:-1 ,KIDS: ClassicToons
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6886
+#EXTINF:-1 ,KIDS: Disney Channel (Canada)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1160
+#EXTINF:-1 ,KIDS: Disney Channel (MEX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1870
+#EXTINF:-1 ,KIDS: Disney Channel East (USA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/368
+#EXTINF:-1 ,KIDS: Disney Channel West (USA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/369
+#EXTINF:-1 ,KIDS: Disney Channnel (Canada)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2764
+#EXTINF:-1 ,KIDS: Disney Junior (Canada)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1162
+#EXTINF:-1 ,KIDS: Disney Junior (Canada)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2766
+#EXTINF:-1 ,KIDS: Disney Junior (France)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2765
+#EXTINF:-1 ,KIDS: Disney Junior (MEX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/795
+#EXTINF:-1 ,KIDS: Disney Junior East (USA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/370
+#EXTINF:-1 ,KIDS: Disney Junior West (USA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/371
+#EXTINF:-1 ,KIDS: Disney XD (Canada)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1809
+#EXTINF:-1 ,KIDS: Disney XD (MEX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/794
+#EXTINF:-1 ,KIDS: Disney XD East (USA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/372
+#EXTINF:-1 ,KIDS: Disney XD West (USA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/373
+#EXTINF:-1 ,KIDS: DuckTv
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8431
+#EXTINF:-1 ,KIDS: La chaÃƒÂ®ne Disney (Canada)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1843
+#EXTINF:-1 ,KIDS: NICK (Canada)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2821
+#EXTINF:-1 ,KIDS: Nick (MEX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8460
+#EXTINF:-1 ,KIDS: Nick 2 (MEX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/839
+#EXTINF:-1 ,KIDS: Nick Junior (MEX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1398
+#EXTINF:-1 ,KIDS: Nick Junior East (USA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/117
+#EXTINF:-1 ,KIDS: NICK TOONS (Canada)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2822
+#EXTINF:-1 ,KIDS: Nickelodeon (Canada)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1785
+#EXTINF:-1 ,KIDS: Nickelodeon East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4946
+#EXTINF:-1 ,KIDS: Nickelodeon West
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1537
+#EXTINF:-1 ,KIDS: Nicktoons
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6301
+#EXTINF:-1 ,KIDS: Nicktoons (MEX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/841
+#EXTINF:-1 ,KIDS: Nursery Rhymes
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6895
+#EXTINF:-1 ,KIDS: PBS Kids
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/47
+#EXTINF:-1 ,KIDS: Qubo
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6293
+#EXTINF:-1 ,KIDS: Teen Nick
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/546
+#EXTINF:-1 ,KIDS: Universal Kids
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/418
+#EXTINF:-1 ,KIDS: ZooMoo (Latino)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1889
+#EXTINF:-1 ,Birmingham ABC 33/40  (WABM)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5777
+#EXTINF:-1 ,Birmingham CBS 42 (WIAT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8243
+#EXTINF:-1 ,Birmingham CW 21 (WTTO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8242
+#EXTINF:-1 ,Birmingham NBC 13 (WVTM)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8244
+#EXTINF:-1 ,Phoenix ABC 15 (KNXV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5740
+#EXTINF:-1 ,Phoenix NBC 12 (KPNX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5942
+#EXTINF:-1 ,Tucson ABC 9 (KGUN)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7050
+#EXTINF:-1 ,Tucson NBC 4 (KVOA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7051
+#EXTINF:-1 ,Phoenix CBS 5 (KPHO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5971
+#EXTINF:-1 ,Little Rock ABC 7 (KATV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8400
+#EXTINF:-1 ,Little Rock CBS 11 (KTHV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8403
+#EXTINF:-1 ,Little Rock NBC 4 (KARK)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8401
+#EXTINF:-1 ,Bakersfield ABC 23 (KERO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8396
+#EXTINF:-1 ,Bakersfield CBS 29 (KBAK)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8398
+#EXTINF:-1 ,Bakersfield NBC 17 (KGET)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8397
+#EXTINF:-1 ,Eureka ABC 23 (KAEF)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8392
+#EXTINF:-1 ,Eureka CBS 14 (KVIQ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8395
+#EXTINF:-1 ,Eureka NBC 3 (KIEM)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8393
+#EXTINF:-1 ,Salinas ABC (KSBW-DT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8388
+#EXTINF:-1 ,Salinas CBS 46 (KION)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8390
+#EXTINF:-1 ,Salinas NBC 8 (KSBW)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8389
+#EXTINF:-1 ,Denver ABC7 (KMGH)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5744
+#EXTINF:-1 ,Fort Myers ABC 7 (WZVN)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8356
+#EXTINF:-1 ,Fort Myers CBS 11 (WINK)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8359
+#EXTINF:-1 ,Fort Myers NBC 2 (WBBH)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8357
+#EXTINF:-1 ,Jacksonville ABC 25 (WJXX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8384
+#EXTINF:-1 ,Jacksonville CBS 47 (WJAX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8387
+#EXTINF:-1 ,Jacksonville NBC 12 (WTLV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8385
+#EXTINF:-1 ,Orlando ABC 9 (WFTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8376
+#EXTINF:-1 ,Orlando CBS 6 (WKMG)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8378
+#EXTINF:-1 ,Orlando NBC 2 (WESH)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8377
+#EXTINF:-1 ,Sarasota ABC  40 (WWSB)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5767
+#EXTINF:-1 ,Tampa ABC 28 (WFTS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5756
+#EXTINF:-1 ,Tampa NBC 8 (WFLA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8406
+#EXTINF:-1 ,Tampa Unmias 62 (WFTT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8272
+#EXTINF:-1 ,Tampa/ CBS 10 (WTSP)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8408
+#EXTINF:-1 ,West Palm Beach ABC 25 (WPBF)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8342
+#EXTINF:-1 ,West Palm Beach CBS 12 (WPEC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8345
+#EXTINF:-1 ,West Palm Beach CW 34 (WTVX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8346
+#EXTINF:-1 ,West Palm Beach NBC 5 (WPTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8343
+#EXTINF:-1 ,Atlanta NBC 11 (WXIA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5932
+#EXTINF:-1 ,Louisville ABC 11 (WHAS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5759
+#EXTINF:-1 ,Louisville CBS 32 (WLKY)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8411
+#EXTINF:-1 ,Louisville NBC 3 (WAVE)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8410
+#EXTINF:-1 ,Baltimore ABC 2 (WMAR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5761
+#EXTINF:-1 ,Baltimore NBC 11 (WBAL)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5943
+#EXTINF:-1 ,Greenwood ABC 6 (WABG)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8413
+#EXTINF:-1 ,Greenwood CBS 15 (WXVT-LD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8414
+#EXTINF:-1 ,Billings ABC 6 (KSVI)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8380
+#EXTINF:-1 ,Billings CBS 2 (KTVQ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8382
+#EXTINF:-1 ,Billings NBC 8 (KULR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8381
+#EXTINF:-1 ,Helena/GF ABC 5 (KFBB)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8372
+#EXTINF:-1 ,Helena/GF CBS 3 (KRTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8374
+#EXTINF:-1 ,Helena/GF NBC 12 (KTGF-LD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8373
+#EXTINF:-1 ,Missoula ABC 23 (KTMF)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8368
+#EXTINF:-1 ,Missoula CBS 8 (KPAX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8370
+#EXTINF:-1 ,Missoula NBC 13 (KECI)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8369
+#EXTINF:-1 ,L: News 12 (New Jersey)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1683
+#EXTINF:-1 ,Cincinnati CBS 12 (WKRC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5896
+#EXTINF:-1 ,Cleveland CBS 19 (WOIO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5560
+#EXTINF:-1 ,Oklahoma City CBS 9 (KWTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5901
+#EXTINF:-1 ,Portland ABC2 (KATU)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5736
+#EXTINF:-1 ,Washington CBS 7 (KIRO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5974
+#EXTINF:-1 ,Charleston ABC 4 (WCIV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5766
+#EXTINF:-1 ,Jackson ABC 7 (WBBJ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8416
+#EXTINF:-1 ,Jackson CBS 7 (WBBJ-DT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8419
+#EXTINF:-1 ,Jackson NBC 39 (WNBJ-LD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8417
+#EXTINF:-1 ,Nashville ABC2 (WKRN)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5742
+#EXTINF:-1 ,Austin ABC 24 (KVUE)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8364
+#EXTINF:-1 ,Austin CBS 42 (KEYE)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8366
+#EXTINF:-1 ,Austin NBC 36 (KXAN)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8365
+#EXTINF:-1 ,McAllen ABC 5 (KRGV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7059
+#EXTINF:-1 ,Richmond ABC 8 (WRIC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8347
+#EXTINF:-1 ,Richmond CBS 6 (WTVR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8350
+#EXTINF:-1 ,Richmond NBC 12 (WWBT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8348
+#EXTINF:-1 ,Spokane ABC 4 (KXLY)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8360
+#EXTINF:-1 ,Spokane CBS 2 (KREM)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8363
+#EXTINF:-1 ,Spokane NBC 6 (KHQ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8361
+#EXTINF:-1 ,La Crosse ABC 19 (WXOW)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8351
+#EXTINF:-1 ,La Crosse CBS 8 (WKBT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8353
+#EXTINF:-1 ,La Crosse NBC 13 (WEAU)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8352
+#EXTINF:-1 ,Chicago ABC7 (WLS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5738
+#EXTINF:-1 ,New Orleans CBS 4 (WWL)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5909
+#EXTINF:-1 ,Philadelphia CW 57 (WPSG)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5982
+#EXTINF:-1 ,Fresno ABC 30 (KFSN)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6354
+#EXTINF:-1 ,Fresno CBS 47 (KGPE)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7048
+#EXTINF:-1 ,Fresno CW 59 (KFRE)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7049
+#EXTINF:-1 ,Fresno NBC 24 (KSEE)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6355
+#EXTINF:-1 ,Los Angeles ABC7 (KABC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5718
+#EXTINF:-1 ,Los Angeles CBS 2 (KCBS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5903
+#EXTINF:-1 ,Los Angeles NBC 4 (KNBC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5938
+#EXTINF:-1 ,Sacramento ABC10 (KXTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5730
+#EXTINF:-1 ,Sacramento NBC 3 (KCRA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5641
+#EXTINF:-1 ,San Diego ABC 10 (KGTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5733
+#EXTINF:-1 ,San Diego NBC 39 (KNSD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5676
+#EXTINF:-1 ,San Francisco ABC7 (KGO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5732
+#EXTINF:-1 ,San Francisco CBS 5 (KPIX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5682
+#EXTINF:-1 ,San Jose NBC 11 (KNTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5677
+#EXTINF:-1 ,Denver CBS 4 (KCNC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5902
+#EXTINF:-1 ,Denver NBC 9 (KUSA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5937
+#EXTINF:-1 ,LOCAL: DC Washington ABC 7 (WJLA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5734
+#EXTINF:-1 ,Washington CBS (WUSA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5906
+#EXTINF:-1 ,Washington NBC 4 (WRC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5944
+#EXTINF:-1 ,Miami ABC 10 (WPLG)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5918
+#EXTINF:-1 ,Miami ABC10 (WPLG)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5750
+#EXTINF:-1 ,Miami CBS 4 (WFOR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5900
+#EXTINF:-1 ,Miami NBC 6 (WTVJ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5936
+#EXTINF:-1 ,Atlanta ABC 2 (WSB)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5914
+#EXTINF:-1 ,Atlanta ABC2 (WSB)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5729
+#EXTINF:-1 ,Atlanta CBS 46 (WGCL)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5976
+#EXTINF:-1 ,LOCAL: Greensboro NC CBS 2 (WFMY)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8234
+#EXTINF:-1 ,LOCAL: Greensboro NC NBC 12 (WXII)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8236
+#EXTINF:-1 ,LOCAL: Greensboro NC WGHP FOX8 (WGHP)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8235
+#EXTINF:-1 ,Honolulu ABC 4 (KITV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5793
+#EXTINF:-1 ,Honolulu CBS (KHNL)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5661
+#EXTINF:-1 ,Honolulu Olelo Traffic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6883
+#EXTINF:-1 ,Honolulu Olelo49
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6879
+#EXTINF:-1 ,Honolulu Olelo53
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6880
+#EXTINF:-1 ,Honolulu Olelo54
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6881
+#EXTINF:-1 ,Honolulu Olelo55
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6882
+#EXTINF:-1 ,Chicago ABC 7 (WLS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5916
+#EXTINF:-1 ,Chicago CBS 2 (WBBM)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5899
+#EXTINF:-1 ,Chicago NBC 5 (WMAQ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5935
+#EXTINF:-1 ,New Orleans NBC 6 (WDSU)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5948
+#EXTINF:-1 ,Baltimore  CW 54 (WNUV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5980
+#EXTINF:-1 ,Baltimore CBS 13 (WJZ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5907
+#EXTINF:-1 ,Boston ABC 5 (WCVB)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5745
+#EXTINF:-1 ,Boston ABC 5 (WCVB)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5913
+#EXTINF:-1 ,Boston CBS 4 (WBZ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5973
+#EXTINF:-1 ,Detroit ABC 7 (WXYZ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5915
+#EXTINF:-1 ,Detroit CBS 62 (WWJ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5898
+#EXTINF:-1 ,Detroit NBC 4 (WDIV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5934
+#EXTINF:-1 ,Minneapolis CBS 12 (WCCO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5897
+#EXTINF:-1 ,Minneapolis CW 23 (WUCW)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5981
+#EXTINF:-1 ,Minneapolis NBC 11 (KARE)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5951
+#EXTINF:-1 ,Saint Paul ABC5 (KSTP)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5751
+#EXTINF:-1 ,ST Louis NBC (KSDK)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8252
+#EXTINF:-1 ,St. Louis ABC 30 (KDNL)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5735
+#EXTINF:-1 ,ST. Louis CBS 4 (KMOV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5672
+#EXTINF:-1 ,Las Vegas CBS 8 (KLAS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5910
+#EXTINF:-1 ,Las Vegas ABC 13 (KTNV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5772
+#EXTINF:-1 ,Las Vegas NBC 3 (KSNVDT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5950
+#EXTINF:-1 ,Manchester ABC 9 (WMUR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5912
+#EXTINF:-1 ,Albuquerque ABC7 (KOAT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5790
+#EXTINF:-1 ,Albuquerque NBC 4 (KOB)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5678
+#EXTINF:-1 ,Riverhead CBS 10/55 (WLNY)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5908
+#EXTINF:-1 ,Buffalo ABC 7 (WKBW)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5783
+#EXTINF:-1 ,Buffalo CBS 4 (WIVB)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5537
+#EXTINF:-1 ,Buffalo NBC 2 (WGRZ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5531
+#EXTINF:-1 ,New York CBS 36 (WCBS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5904
+#EXTINF:-1 ,New York NBC 4 (WNBC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5939
+#EXTINF:-1 ,NYC ABC7 (WABC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5758
+#EXTINF:-1 ,Raleigh ABC11 (WTVD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5749
+#EXTINF:-1 ,Raleigh CBS 17 (WNCN)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8248
+#EXTINF:-1 ,Raleigh CW 22 (WLFL)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8249
+#EXTINF:-1 ,Raleigh NBC 5 (WRAL)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8251
+#EXTINF:-1 ,Winston-Salem ABC45 (WXLV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5768
+#EXTINF:-1 ,Cincinnati ABC 9 (WCPO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5931
+#EXTINF:-1 ,Cincinnati NBC 5 (WLWT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5947
+#EXTINF:-1 ,Cleveland ABC 5 (WEWS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5753
+#EXTINF:-1 ,Cleveland NBC 3 (WKYC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5544
+#EXTINF:-1 ,Oklahoma City ABC 5 (KOCO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5922
+#EXTINF:-1 ,Pennsylvania ABC 6 (WPVI)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5726
+#EXTINF:-1 ,L: Pennsylvania Philadelphia CBS 3 (KYW)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5911
+#EXTINF:-1 ,Philadelphia NBC 10 (WCAU)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5941
+#EXTINF:-1 ,Pittsburgh ABC 4 (WTAE)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5731
+#EXTINF:-1 ,LOCAL: Pittsburgh PA CBS 2 (KDKA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8238
+#EXTINF:-1 ,Pittsburgh CW (WPCW)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8239
+#EXTINF:-1 ,LOCAL: Pittsburgh PA NBC 11 (WPXI)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8241
+#EXTINF:-1 ,Providence NBC 10 (WBTS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5933
+#EXTINF:-1 ,Washington CW 11 (KSTW)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5979
+#EXTINF:-1 ,Washington NBC 5 (KING)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5945
+#EXTINF:-1 ,Charleston CBS 5 (WCSC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8256
+#EXTINF:-1 ,Charleston NBC 2 (WCBD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8259
+#EXTINF:-1 ,Columbia ABC 25 (WOLO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8254
+#EXTINF:-1 ,Columbia CBS 19 (WLTX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5548
+#EXTINF:-1 ,Columbia NBC 10 (WIS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5534
+#EXTINF:-1 ,Nashville CBS 5 (WTVF)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5972
+#EXTINF:-1 ,Nashville NBC 4 (WSMV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5949
+#EXTINF:-1 ,Corpus Christi  ABC 3 (KIII)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6331
+#EXTINF:-1 ,Dallas ABC 8 (WFAA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5748
+#EXTINF:-1 ,Fort Worth CBS (KTVT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5905
+#EXTINF:-1 ,Fort Worth NBC 5 (KXAS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5940
+#EXTINF:-1 ,Houston ABC 13 (KTRK)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5739
+#EXTINF:-1 ,Houston CBS 11 (KHOU)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5975
+#EXTINF:-1 ,Houston NBC 2 (KPRC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5946
+#EXTINF:-1 ,McAllen CBS (KVEO-DT2)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7062
+#EXTINF:-1 ,McAllen NBC (KVEO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7060
+#EXTINF:-1 ,Salt Lake ABC 4 (KTVX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5737
+#EXTINF:-1 ,Salt Lake City CBS 2 (KUTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5709
+#EXTINF:-1 ,Seattle ABC 4 (KOMO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5728
+#EXTINF:-1 ,Anchorage ABC13 (KYUR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5801
+#EXTINF:-1 ,Gainesville ABC20 (WCJB)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5795
+#EXTINF:-1 ,Jefferson City ABC17 (KMIZ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5780
+#EXTINF:-1 ,Huntsville ABC31 (WAAY)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5776
+#EXTINF:-1 ,Montgomery CBS 8 (WAKA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5503
+#EXTINF:-1 ,Montgomery NBC 12 (WSFA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5578
+#EXTINF:-1 ,Phoenix CBS 5 (KPHO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5681
+#EXTINF:-1 ,Phoenix NBC 12 (KPNX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5683
+#EXTINF:-1 ,Fort Smith ABC40/29 (KHBS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5775
+#EXTINF:-1 ,San Francisco CW 12 (KBCW)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5630
+#EXTINF:-1 ,Los Angeles (KCAL)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5633
+#EXTINF:-1 ,Los Angeles CBS 2 (KCBS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5635
+#EXTINF:-1 ,Los Angeles My 13 KCOP
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5874
+#EXTINF:-1 ,Los Angeles NBC 4 (KNBC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5675
+#EXTINF:-1 ,San Jose TV36 (KICU)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5665
+#EXTINF:-1 ,Santa Maria CBS 12 (KKFX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5668
+#EXTINF:-1 ,Illinois CBS 2 (WBBM)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5507
+#EXTINF:-1 ,Denver CBS 4 (KCNC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5639
+#EXTINF:-1 ,Denver NBC (KUSA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5708
+#EXTINF:-1 ,New Britain NBC 30 (WVIT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5604
+#EXTINF:-1 ,New Haven ABC8 (WTNH)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5743
+#EXTINF:-1 ,Fort Lauderdale MY33 (WBFS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5509
+#EXTINF:-1 ,Miami CBS 4 (WFOR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5524
+#EXTINF:-1 ,Miami NBC 4 (WTVJ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5593
+#EXTINF:-1 ,Miami Univiison (WLTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5547
+#EXTINF:-1 ,Pensacola  ABC 3 (WEAR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5763
+#EXTINF:-1 ,Atlanta CBS 46 (WGCL)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5528
+#EXTINF:-1 ,Atlanta CW 69 (WUPA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5598
+#EXTINF:-1 ,Atlanta NBC 11 (WXIA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5610
+#EXTINF:-1 ,Augusta ABC6 (WJBF)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5786
+#EXTINF:-1 ,Chicago 60 (WXFT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5609
+#EXTINF:-1 ,Chicago MY50 (WPWR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5567
+#EXTINF:-1 ,Chicago NBC 5 (WMAQ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5549
+#EXTINF:-1 ,Harrisburg ABC3 (WSIL)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5787
+#EXTINF:-1 ,Indianapolis ABC6 (WRTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5746
+#EXTINF:-1 ,Indianapolis NBC 13 (WTHR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5587
+#EXTINF:-1 ,Cedar Rapids ABC9 (KCRG)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5774
+#EXTINF:-1 ,Des Moines CBS 8 (KCCI)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5636
+#EXTINF:-1 ,Lexington ABC36 (WTVQ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5788
+#EXTINF:-1 ,L: Pennsylvania Philadelphia ABC (WPVI)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9800
+#EXTINF:-1 ,Baton Rouge (WAFB9)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9803
+#EXTINF:-1 ,Baton Rouge ABC 2 (WBRZ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5770
+#EXTINF:-1 ,New Orleans CBS 4 (WWL)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5607
+#EXTINF:-1 ,New Orleans NBC 6 (WDSU)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5522
+#EXTINF:-1 ,L: Louisiana Shreveport ABC 3 (KTBS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5796
+#EXTINF:-1 ,Baltimore CBS 13 (WJZ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5541
+#EXTINF:-1 ,Baltimore NBC 11 (WBAL)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5506
+#EXTINF:-1 ,Boston CBS 4 (WBZ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5515
+#EXTINF:-1 ,Boston MY38 (WSBK)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5575
+#EXTINF:-1 ,Boston SBN (WMFP)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5550
+#EXTINF:-1 ,Battle Creek ABC4 (WOTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5781
+#EXTINF:-1 ,Detroit ABC7 (WXYZ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5727
+#EXTINF:-1 ,Grand Rapids  ABC13 (WZZM)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5782
+#EXTINF:-1 ,Kansas City ABC9 (KMBC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5755
+#EXTINF:-1 ,Missouri ABC33 (KSPR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5797
+#EXTINF:-1 ,Omaha CBS 3 (KMTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5674
+#EXTINF:-1 ,Omaha NBC 6 (WOWT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5562
+#EXTINF:-1 ,Las Vegas CBS 8 (KLAS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5669
+#EXTINF:-1 ,Las Vegas NBC 3 (KSNV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5690
+#EXTINF:-1 ,Albany ABC 10 (WTEN)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5771
+#EXTINF:-1 ,NYC CBS 2 (WCBS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5517
+#EXTINF:-1 ,NYC NBC (WNBC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5499
+#EXTINF:-1 ,NYC NBC 4 (WNBC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5554
+#EXTINF:-1 ,Riverhead CBS 55 (WLNY)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5546
+#EXTINF:-1 ,Syracuse ABC9 (WSYR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5794
+#EXTINF:-1 ,Asheville ABC13 (WLOS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5779
+#EXTINF:-1 ,Charlotte ABC (WSOC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5757
+#EXTINF:-1 ,Charlotte CBS 3 (WBTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5514
+#EXTINF:-1 ,Charlotte NBC 36 (WCNC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5519
+#EXTINF:-1 ,Columbus ABC6 (WSYX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5752
+#EXTINF:-1 ,Columbus CBS 10 (WBNS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5510
+#EXTINF:-1 ,Columbus NBC 4 (WCMH)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5518
+#EXTINF:-1 ,Dayton ABC22 (WKEF)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5799
+#EXTINF:-1 ,Oklahoma City News 9 (KWTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5713
+#EXTINF:-1 ,Tulsa ABC 8 (KTUL)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5802
+#EXTINF:-1 ,Harrisburg ABC 27 (WHTM)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5803
+#EXTINF:-1 ,Philadelphia NBC 10 (WCAU)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5516
+#EXTINF:-1 ,Pittsburgh CBS 2 (KDKA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5645
+#EXTINF:-1 ,Pittsburgh NBC 11 (WPXI)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5568
+#EXTINF:-1 ,Scranton CBS 22 (WYOU)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5617
+#EXTINF:-1 ,Wilkes-Barre NBC 28 (WBRE)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5513
+#EXTINF:-1 ,Providence CBS 12 (WPRI)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5566
+#EXTINF:-1 ,Providence NBC 10 (WJAR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5538
+#EXTINF:-1 ,Charleston ABC8 (WCHS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5765
+#EXTINF:-1 ,Greenville NBC 4 (WYFF)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5616
+#EXTINF:-1 ,Spartanburg CBS 7 (WSPA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5581
+#EXTINF:-1 ,Sioux Falls CBS 11 (KELO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5650
+#EXTINF:-1 ,Sioux Falls NBC 46 (KDLT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5646
+#EXTINF:-1 ,Memphis ABC24 (WATN)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5769
+#EXTINF:-1 ,Bryan ABC25 (KXXV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5784
+#EXTINF:-1 ,Dallas  NBS (KXAS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5715
+#EXTINF:-1 ,Dallas CBS (KTVT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5703
+#EXTINF:-1 ,Dallas CBS (KTXA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5706
+#EXTINF:-1 ,El Paso ABC7 (KVIA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5792
+#EXTINF:-1 ,Fort Worth CBS (KXTX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5717
+#EXTINF:-1 ,Houston CBS 11 (KHOU)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5663
+#EXTINF:-1 ,Houston NBC 2 (KPRC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5684
+#EXTINF:-1 ,Lubbock ABC28 (KAMC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5791
+#EXTINF:-1 ,San Antonio ABC 12 (KSAT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5754
+#EXTINF:-1 ,Temple NBC 6 (KCEN)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5637
+#EXTINF:-1 ,Salt Lake City NBC 5 (KSL)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5689
+#EXTINF:-1 ,Hampton Roads ABC13 (WVEC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5800
+#EXTINF:-1 ,DC CBS 9 (WUSA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5599
+#EXTINF:-1 ,Seattle CBS 7 (KIRO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5667
+#EXTINF:-1 ,Seattle CW (KSTW)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5694
+#EXTINF:-1 ,Seattle NBC 5 (KING)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5666
+#EXTINF:-1 ,Clarksburg ABC/NBC 12 (WBOY)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5511
+#EXTINF:-1 ,Green Bay ABC2 (WBAY)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5785
+#EXTINF:-1 ,Madison ABC27 (WKOW)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5798
+#EXTINF:-1 ,Madison CBS 3 (WISC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5535
+#EXTINF:-1 ,Madison NBC 15 (WMTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5552
+#EXTINF:-1 ,Milwaukee ABC12 (WISN)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5741
+#EXTINF:-1 ,Casper NBC/CW (KCHY)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5638
+#EXTINF:-1 ,San Antonio NBC 4 (WOAI)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5873
+#EXTINF:-1 ,Religious: 3ABN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7191
+#EXTINF:-1 ,Religious: 3ABN Dare to Dream Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7196
+#EXTINF:-1 ,Religious: 3ABN International Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7197
+#EXTINF:-1 ,Religious: 3ABN Kids Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7192
+#EXTINF:-1 ,Religious: 3ABN Latino Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7194
+#EXTINF:-1 ,Religious: 3ABN Praise Him Music Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7193
+#EXTINF:-1 ,Religious: 3ABN Proclaim! Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7195
+#EXTINF:-1 ,Religious: Catholic Faith Network (CFN)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7371
+#EXTINF:-1 ,Religious: christian broadcasting network (CBN)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7187
+#EXTINF:-1 ,Religious: Daystar Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7198
+#EXTINF:-1 ,Religious: Dove Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6894
+#EXTINF:-1 ,Religious: Dunamis TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7201
+#EXTINF:-1 ,Religious: Enlace Tv (Latino)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4902
+#EXTINF:-1 ,Religious: EWTN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7188
+#EXTINF:-1 ,Religious: GEB.TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7220
+#EXTINF:-1 ,Religious: GOD TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7208
+#EXTINF:-1 ,Religious: GoodNews TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7199
+#EXTINF:-1 ,Religious: Hope Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7189
+#EXTINF:-1 ,Religious: Kingdom Building TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7412
+#EXTINF:-1 ,Religious: LOMA LINDA BROADCASTING NETWORK (LLBN)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7190
+#EXTINF:-1 ,Religious: Preach The Word Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7410
+#EXTINF:-1 ,Religious: TBD TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5851
+#EXTINF:-1 ,Religious: TBN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2195
+#EXTINF:-1 ,Religious: The Word Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7186
+#EXTINF:-1 ,CA: A&E
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/329
+#EXTINF:-1 ,CA: ABC BUFFALO
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/328
+#EXTINF:-1 ,CA: ABC East SD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6356
+#EXTINF:-1 ,CA: ABC Spark
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2706
+#EXTINF:-1 ,CA: ABC West SD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6357
+#EXTINF:-1 ,CA: Addik TV (FR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2710
+#EXTINF:-1 ,CA: AMC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2712
+#EXTINF:-1 ,CA: APTN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2714
+#EXTINF:-1 ,CA: BBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2717
+#EXTINF:-1 ,CA: BBC World News
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2718
+#EXTINF:-1 ,CA: BEIN CANADA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/221
+#EXTINF:-1 ,CA: BET
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/322
+#EXTINF:-1 ,CA: BET
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2719
+#EXTINF:-1 ,CA: BNN Bloomberg
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1822
+#EXTINF:-1 ,CA: Book TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2721
+#EXTINF:-1 ,CA: Bravo
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2722
+#EXTINF:-1 ,CA: Canal D
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2723
+#EXTINF:-1 ,CA: Canal Savoir (FR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2724
+#EXTINF:-1 ,CA: Casa (FR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2726
+#EXTINF:-1 ,CA: CBC EAST
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/320
+#EXTINF:-1 ,CA: CBC Edmonton
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7415
+#EXTINF:-1 ,CA: CBC Montreal
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2727
+#EXTINF:-1 ,CA: CBC News
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2728
+#EXTINF:-1 ,CA: CBC NEWS NETWORK
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/318
+#EXTINF:-1 ,CA: CBC St. John's
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1789
+#EXTINF:-1 ,CA: CBC Toronto
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/344
+#EXTINF:-1 ,CA: CBC Vancouver
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2731
+#EXTINF:-1 ,CA: CBS (East)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2732
+#EXTINF:-1 ,CA: CBS (West)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2733
+#EXTINF:-1 ,CA: CHCH
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/314
+#EXTINF:-1 ,CA: Cinepop (FR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2735
+#EXTINF:-1 ,CA: CITY CALGARY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2871
+#EXTINF:-1 ,CA: City Montreal
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2736
+#EXTINF:-1 ,CA: CITY Toronto
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/312
+#EXTINF:-1 ,CA: City Vancouver
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2738
+#EXTINF:-1 ,CA: CMT
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2739
+#EXTINF:-1 ,CA: CNBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2740
+#EXTINF:-1 ,CA: CNBC WORLD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/310
+#EXTINF:-1 ,CA: Cooking Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2745
+#EXTINF:-1 ,CA: Cottage Life
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2747
+#EXTINF:-1 ,CA: CP24
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/303
+#EXTINF:-1 ,CA: CPAC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2749
+#EXTINF:-1 ,CA: CRAVE 1 / TMN 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2872
+#EXTINF:-1 ,CA: CRAVE 2 / TMN 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2873
+#EXTINF:-1 ,CA: CRAVE 3 / TMN 3
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2874
+#EXTINF:-1 ,CA: CRAVE 4 / TMN 4
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2875
+#EXTINF:-1 ,CA: Crime & Investigation
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2751
+#EXTINF:-1 ,CA: CTV Kitchener
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/343
+#EXTINF:-1 ,CA: CTV 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1795
+#EXTINF:-1 ,CA: CTV 2 Ottawa
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2758
+#EXTINF:-1 ,CA: CTV 2 Vancouver
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2752
+#EXTINF:-1 ,CA: CTV Calgary
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2876
+#EXTINF:-1 ,CA: CTV Comedy East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/308
+#EXTINF:-1 ,CA: CTV Drama
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1800
+#EXTINF:-1 ,CA: CTV Halifax
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2753
+#EXTINF:-1 ,CA: CTV Montreal
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2877
+#EXTINF:-1 ,CA: CTV NEWS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/298
+#EXTINF:-1 ,CA: CTV NEWS BARRIE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/297
+#EXTINF:-1 ,CA: CTV News Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2754
+#EXTINF:-1 ,CA: CTV Ottawa
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2755
+#EXTINF:-1 ,CA: CTV SCI-FI
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1788
+#EXTINF:-1 ,CA: CTV Toronto
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2756
+#EXTINF:-1 ,CA: CTV Two Atlantic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1812
+#EXTINF:-1 ,CA: CTV Vancouver
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2757
+#EXTINF:-1 ,CA: CW 11
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4973
+#EXTINF:-1 ,CA: Daystar TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2760
+#EXTINF:-1 ,CA: Dejaview
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2761
+#EXTINF:-1 ,CA: DIY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2767
+#EXTINF:-1 ,CA: Documentary
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2768
+#EXTINF:-1 ,CA: DTOUR
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/288
+#EXTINF:-1 ,CA: E!
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/287
+#EXTINF:-1 ,CA: E! Entertaiment
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2770
+#EXTINF:-1 ,CA: Evasion
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2773
+#EXTINF:-1 ,CA: FAMILY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1806
+#EXTINF:-1 ,CA: Family (East)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2775
+#EXTINF:-1 ,CA: Family (West)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2777
+#EXTINF:-1 ,CA: Family Chrgd
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2774
+#EXTINF:-1 ,CA: Family JR
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2776
+#EXTINF:-1 ,CA: Fight Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2778
+#EXTINF:-1 ,CA: FTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2783
+#EXTINF:-1 ,CA: FXX
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/281
+#EXTINF:-1 ,CA: FYI
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2784
+#EXTINF:-1 ,CA: Game Plus
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2785
+#EXTINF:-1 ,CA: GINX ESPORTS TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2907
+#EXTINF:-1 ,CA: GLOBAL BC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/278
+#EXTINF:-1 ,CA: GLOBAL CALGARY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/277
+#EXTINF:-1 ,CA: Global Halifax
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2786
+#EXTINF:-1 ,CA: Global National
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1845
+#EXTINF:-1 ,CA: Global Toronto
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2787
+#EXTINF:-1 ,CA: Global Vancouver
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2788
+#EXTINF:-1 ,CA: Golf
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2789
+#EXTINF:-1 ,CA: GSN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2790
+#EXTINF:-1 ,CA: Gusto
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2791
+#EXTINF:-1 ,CA: H2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2792
+#EXTINF:-1 ,CA: Headline News
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1799
+#EXTINF:-1 ,CA: Historia
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2796
+#EXTINF:-1 ,CA: History
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2797
+#EXTINF:-1 ,CA: HLN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2798
+#EXTINF:-1 ,CA: Hope TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/271
+#EXTINF:-1 ,CA: HPI
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/270
+#EXTINF:-1 ,CA: ICI Montreal
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2799
+#EXTINF:-1 ,CA: ICI Radio Canada Tele Vancouver
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2800
+#EXTINF:-1 ,CA: ID Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2801
+#EXTINF:-1 ,CA: Joy TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5722
+#EXTINF:-1 ,CA: Knowledge Kids
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2803
+#EXTINF:-1 ,CA: KTLA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2804
+#EXTINF:-1 ,CA: LCN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2805
+#EXTINF:-1 ,CA: Leafs Nation Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/219
+#EXTINF:-1 ,CA: LIFETIME
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/268
+#EXTINF:-1 ,CA: Love Nature
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/267
+#EXTINF:-1 ,CA: Makeful
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2807
+#EXTINF:-1 ,CA: MAVTV CANADA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2906
+#EXTINF:-1 ,CA: MAX
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2808
+#EXTINF:-1 ,CA: Miracle
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2810
+#EXTINF:-1 ,CA: Moi ET CIE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2811
+#EXTINF:-1 ,CA: Movie Central
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/266
+#EXTINF:-1 ,CA: Movietime
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2812
+#EXTINF:-1 ,CA: MSNBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/263
+#EXTINF:-1 ,CA: MTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2813
+#EXTINF:-1 ,CA: MTV 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2814
+#EXTINF:-1 ,CA: Much Music
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/261
+#EXTINF:-1 ,CA: MUSIQUE PLUS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2816
+#EXTINF:-1 ,CA: Nationl Geographic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2817
+#EXTINF:-1 ,CA: NBA TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2818
+#EXTINF:-1 ,CA: NBC EAST
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2819
+#EXTINF:-1 ,CA: NBC WEST
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2820
+#EXTINF:-1 ,CA: NFL Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1794
+#EXTINF:-1 ,CA: NTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2823
+#EXTINF:-1 ,CA: OLN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/256
+#EXTINF:-1 ,CA: OMNI 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2825
+#EXTINF:-1 ,CA: OMNI 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2826
+#EXTINF:-1 ,CA: OMNI CALGARY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/254
+#EXTINF:-1 ,CA: ONE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2827
+#EXTINF:-1 ,CA: OUTTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2828
+#EXTINF:-1 ,CA: OWN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/253
+#EXTINF:-1 ,CA: PBS  17 (WNED)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/223
+#EXTINF:-1 ,CA: PBS Buffalo
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1801
+#EXTINF:-1 ,CA: PBS East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2830
+#EXTINF:-1 ,CA: Peach Tree
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2831
+#EXTINF:-1 ,CA: PRISE 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2832
+#EXTINF:-1 ,CA: RDI
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2833
+#EXTINF:-1 ,CA: RDS (FR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2834
+#EXTINF:-1 ,CA: RDS 2 (FR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2835
+#EXTINF:-1 ,CA: RDS INFO (FR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2836
+#EXTINF:-1 ,CA: RT NEWS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/251
+#EXTINF:-1 ,CA: SERIES PLUS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2837
+#EXTINF:-1 ,CA: SHOPPING
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2838
+#EXTINF:-1 ,CA: Showcase East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2839
+#EXTINF:-1 ,CA: Silver Screen Classic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2840
+#EXTINF:-1 ,CA: SLICE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/249
+#EXTINF:-1 ,CA: Paramount Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2844
+#EXTINF:-1 ,CA: SPORTSNET 360
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2894
+#EXTINF:-1 ,CA: Sportsnet East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2895
+#EXTINF:-1 ,CA: Sportsnet Ontario
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2897
+#EXTINF:-1 ,CA: Sportsnet Pacific
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2898
+#EXTINF:-1 ,CA: Sportsnet West
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2899
+#EXTINF:-1 ,CA: Sportsnet World
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2900
+#EXTINF:-1 ,CA: Super Channel Heart & Home
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2881
+#EXTINF:-1 ,CA: Super Channel Vault
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2901
+#EXTINF:-1 ,CA: SUPER ECRAN 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2902
+#EXTINF:-1 ,CA: SUPER ECRAN 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2903
+#EXTINF:-1 ,CA: SUPER ECRAN 3
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2904
+#EXTINF:-1 ,CA: SUPER ECRAN 4
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2905
+#EXTINF:-1 ,CA: TELE QUEBEC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2846
+#EXTINF:-1 ,CA: TELE TOON (FR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2848
+#EXTINF:-1 ,CA: Teletoon East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2847
+#EXTINF:-1 ,CA: TELEMAGINO (FR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2849
+#EXTINF:-1 ,CA: TFO (FR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2850
+#EXTINF:-1 ,CA: THE WEATHER NETWORK
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2851
+#EXTINF:-1 ,CA: TLN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/239
+#EXTINF:-1 ,CA: TMN 4
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2892
+#EXTINF:-1 ,CA: TRAVEL AND ESCAPE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2882
+#EXTINF:-1 ,CA: TreeHouse
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/234
+#EXTINF:-1 ,CA: Treehouse
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2853
+#EXTINF:-1 ,CA: TSN 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2884
+#EXTINF:-1 ,CA: TSN 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2885
+#EXTINF:-1 ,CA: TSN 3
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2886
+#EXTINF:-1 ,CA: TSN 4
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2887
+#EXTINF:-1 ,CA: TSN 5
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2888
+#EXTINF:-1 ,CA: TV Ontario
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/345
+#EXTINF:-1 ,CA: TV5
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1818
+#EXTINF:-1 ,CA: TV5 SD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2704
+#EXTINF:-1 ,CA: TVA Montreal
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1817
+#EXTINF:-1 ,CA: TVA SPORTS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1113
+#EXTINF:-1 ,CA: TVO
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2854
+#EXTINF:-1 ,CA-F: Unis TV (FR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2855
+#EXTINF:-1 ,CA: VIE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2856
+#EXTINF:-1 ,CA: VISION
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2857
+#EXTINF:-1 ,CA: VRAK TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2858
+#EXTINF:-1 ,CA: W Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2859
+#EXTINF:-1 ,CA: WFN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2860
+#EXTINF:-1 ,CA: WGN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2861
+#EXTINF:-1 ,CA: Wild TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2862
+#EXTINF:-1 ,CA: WSBK
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2863
+#EXTINF:-1 ,CA: YES TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2864
+#EXTINF:-1 ,CA: YOOPA (FR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2865
+#EXTINF:-1 ,CA: YTV East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1274
+#EXTINF:-1 ,CA: Z TELE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2867
+#EXTINF:-1 ,CA-F(fr-CA) TVA Ouest
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7146
+#EXTINF:-1 ,CA-F: addikTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7070
+#EXTINF:-1 ,CA-F: Cable Public Affairs Channel French
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7072
+#EXTINF:-1 ,CA-F: Canal D
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7073
+#EXTINF:-1 ,Ia radio de Vues & Voix
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7074
+#EXTINF:-1 ,CA-F: Canal Vie
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7075
+#EXTINF:-1 ,CA-F: CANAL Z
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7076
+#EXTINF:-1 ,CA-F: CASA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7077
+#EXTINF:-1 ,CA-F: CGTN FranÃ§ais
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7078
+#EXTINF:-1 ,CA-F: Cinepop
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7079
+#EXTINF:-1 ,CA-F: CPAC (FR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2750
+#EXTINF:-1 ,CA-F: ELLE Fictions
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7081
+#EXTINF:-1 ,CA-F: ES1 Canada
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7082
+#EXTINF:-1 ,CA-F: Euronews
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7083
+#EXTINF:-1 ,CA-F: Evasion
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7084
+#EXTINF:-1 ,CA-F: Feu de foyer
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7085
+#EXTINF:-1 ,CA-F: France 24
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7086
+#EXTINF:-1 ,CA-F: Historia
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7087
+#EXTINF:-1 ,CA-F: ICI ARTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7088
+#EXTINF:-1 ,CA-F: ICI EXPLORA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7089
+#EXTINF:-1 ,CA-F: ICI Radio-Canada Tele Montreal
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7092
+#EXTINF:-1 ,CA-F: ICI Radio-Canada Tele Quebec
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7094
+#EXTINF:-1 ,CA-F: Investigation
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7099
+#EXTINF:-1 ,CA-F: LCN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7102
+#EXTINF:-1 ,CA-F: Ligue Nationale de Hockey 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7104
+#EXTINF:-1 ,CA-F: Ligue Nationale de Hockey 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7103
+#EXTINF:-1 ,CA-F: MAX
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7105
+#EXTINF:-1 ,CA-F: Meteo Media Montreal
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7106
+#EXTINF:-1 ,CA-F: Mezzo Live
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7107
+#EXTINF:-1 ,CA-F: MOI&cie
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7108
+#EXTINF:-1 ,CA-F: Natyf TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7109
+#EXTINF:-1 ,CA-F: Prise2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7111
+#EXTINF:-1 ,CA-F: RDS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7113
+#EXTINF:-1 ,CA-F: RDS INFO
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7112
+#EXTINF:-1 ,CA-F: RDS2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7114
+#EXTINF:-1 ,CA-F: Savoir Media
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7115
+#EXTINF:-1 ,CA-F: Seasons
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7117
+#EXTINF:-1 ,CA-F: Series+
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7118
+#EXTINF:-1 ,CA-F: StudioCanal
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7119
+#EXTINF:-1 ,CA-F: Super Ecran 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7120
+#EXTINF:-1 ,CA-F: Super Ecran 4
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7123
+#EXTINF:-1 ,CA-F: Super Ã‰cran 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7121
+#EXTINF:-1 ,CA-F: Super Ã‰cran 3
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7122
+#EXTINF:-1 ,CA-F: Tele-Quebec
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7126
+#EXTINF:-1 ,CA-F: TeleMag Quebec
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7124
+#EXTINF:-1 ,CA-F: Telemagino
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7125
+#EXTINF:-1 ,CA-F: Teletoon French
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7127
+#EXTINF:-1 ,CA-F: TVA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7130
+#EXTINF:-1 ,CA-F: TVA Quebec City
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7132
+#EXTINF:-1 ,CA-F: TVA Trois-Rivieres
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7136
+#EXTINF:-1 ,CA-F: Unis TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7137
+#EXTINF:-1 ,CA-F: V
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7138
+#EXTINF:-1 ,CA-F: V Montreal
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7139
+#EXTINF:-1 ,CA-F: V Quebec City
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7140
+#EXTINF:-1 ,CA-F: V Sherbrooke
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7141
+#EXTINF:-1 ,CA-F: V Trois-Rivieres
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7142
+#EXTINF:-1 ,CA-F: Vrak
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7143
+#EXTINF:-1 ,CA-F: Vu! Tele a la Carte 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7147
+#EXTINF:-1 ,CA-F: Vu! Tele a la Carte 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7148
+#EXTINF:-1 ,CA-F: Vu! Tele a la Carte 3
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7149
+#EXTINF:-1 ,CA-F: Vu! Tele a la Carte 5
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7151
+#EXTINF:-1 ,CA-F: Yoopa
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7144
+#EXTINF:-1 ,CA-F: Zeste
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7145
+#EXTINF:-1 ,#0 HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4923
+#EXTINF:-1 ,#Vamos HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4937
+#EXTINF:-1 ,USL: 24 Horas
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4927
+#EXTINF:-1 ,USL: AR H2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/828
+#EXTINF:-1 ,USL: Atres Series
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4884
+#EXTINF:-1 ,USL: AXN White HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4940
+#EXTINF:-1 ,USL: AyM Sports (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8847
+#EXTINF:-1 ,USL: Bandamax
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4904
+#EXTINF:-1 ,USL: Barca TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4933
+#EXTINF:-1 ,USL: Be Mad
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4919
+#EXTINF:-1 ,USL: Blaze
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4925
+#EXTINF:-1 ,USL: Canal 22 Internacional
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4901
+#EXTINF:-1 ,USL: Canal Cocina
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4934
+#EXTINF:-1 ,USL: CANAL Odisea
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4942
+#EXTINF:-1 ,USL: Canal Panda
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4922
+#EXTINF:-1 ,USL: CANAL SUR A.
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4941
+#EXTINF:-1 ,USL: Caracol TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/772
+#EXTINF:-1 ,USL: Caracol TV Internacional (S)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7212
+#EXTINF:-1 ,USL: Caza Y Pesca
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4920
+#EXTINF:-1 ,USL: Cine Estelar
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4910
+#EXTINF:-1 ,USL: Cine Mexicano
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4905
+#EXTINF:-1 ,USL: Cine Nostalgia
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4911
+#EXTINF:-1 ,USL: Cine Sony
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/356
+#EXTINF:-1 ,USL: Cinelatino
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4898
+#EXTINF:-1 ,USL: Classica
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4935
+#EXTINF:-1 ,USL: Cocina
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1382
+#EXTINF:-1 ,USL: Ecuador TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4896
+#EXTINF:-1 ,USL: Ecuavisa Internacional
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4897
+#EXTINF:-1 ,USL: Estrella TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8821
+#EXTINF:-1 ,USL: Estrella TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4899
+#EXTINF:-1 ,USL: Eurosport 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4931
+#EXTINF:-1 ,USL: Eurosport 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4932
+#EXTINF:-1 ,USL: France 24
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8814
+#EXTINF:-1 ,USL: GOL
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4926
+#EXTINF:-1 ,USL: Galavision East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8550
+#EXTINF:-1 ,USL: Galavision West
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8576
+#EXTINF:-1 ,USL: Galavision Albuquerque
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8539
+#EXTINF:-1 ,USL: Galavision Atlanta
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8541
+#EXTINF:-1 ,USL: Galavision Austin
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8543
+#EXTINF:-1 ,USL: Galavision Cleveland
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8546
+#EXTINF:-1 ,USL: Galavision Dallas
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8548
+#EXTINF:-1 ,USL: Galavision Fresno
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8551
+#EXTINF:-1 ,USL: Galavision Houston
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8553
+#EXTINF:-1 ,USL: Galavision Las Vegas
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8556
+#EXTINF:-1 ,USL: Galavision Los Angeles
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8555
+#EXTINF:-1 ,USL: Galavision Miami
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8558
+#EXTINF:-1 ,USL: Galavision New York
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8560
+#EXTINF:-1 ,USL: Galavision Philadelphia
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8562
+#EXTINF:-1 ,USL: Galavision Phoenix
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8565
+#EXTINF:-1 ,USL: Galavision Sacramento
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8568
+#EXTINF:-1 ,USL: Galavision Salt Lake
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8570
+#EXTINF:-1 ,USL: Galavision San Antonio
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8572
+#EXTINF:-1 ,USL: Galavision San Francisco
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8573
+#EXTINF:-1 ,USL: HITN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4906
+#EXTINF:-1 ,USL: Hollywood HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4945
+#EXTINF:-1 ,USL: Iberalia TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4930
+#EXTINF:-1 ,USL: Insight TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8825
+#EXTINF:-1 ,USL: LA 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4928
+#EXTINF:-1 ,USL: LA 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4929
+#EXTINF:-1 ,USL: LA SEXTA HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4918
+#EXTINF:-1 ,USL: Latin Angels
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8827
+#EXTINF:-1 ,USL: MegaTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4913
+#EXTINF:-1 ,USL: Mexicanal
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8285
+#EXTINF:-1 ,USL: MEZZO LIVE HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4917
+#EXTINF:-1 ,MEX: Canal 26
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/777
+#EXTINF:-1 ,USL: Mega TV (PR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5822
+#EXTINF:-1 ,USL:  MX Golden Plus
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/819
+#EXTINF:-1 ,USL: MX MEXIQUICE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/835
+#EXTINF:-1 ,USL: MX Nickelodeon
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/840
+#EXTINF:-1 ,USL: Nuestra Tele
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4887
+#EXTINF:-1 ,USL: NTN24
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4895
+#EXTINF:-1 ,USL: Orbita TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8810
+#EXTINF:-1 ,USL: Pasiones
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4907
+#EXTINF:-1 ,USL: Peru Magico
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4893
+#EXTINF:-1 ,USL: Senal de Vida
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8846
+#EXTINF:-1 ,USL: SonLife Spanish
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8844
+#EXTINF:-1 ,USL: Starz Encore
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5853
+#EXTINF:-1 ,USL: Starz Encore East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6343
+#EXTINF:-1 ,USL: Starz Encore Family
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7504
+#EXTINF:-1 ,USL: Super Canal
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8830
+#EXTINF:-1 ,USL: SUR Peru
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4891
+#EXTINF:-1 ,USL: TeleCentro
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4892
+#EXTINF:-1 ,USL: Telecinco
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4924
+#EXTINF:-1 ,USL: Teledeporte
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4943
+#EXTINF:-1 ,USL: Tele El Salvador
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8832
+#EXTINF:-1 ,USL: Telefe
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4889
+#EXTINF:-1 ,USL: Telemicro (PR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2151
+#EXTINF:-1 ,USL: Telemundo (WKAQ) (PR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2152
+#EXTINF:-1 ,USL: Teleoro Canal 13 (PR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5823
+#EXTINF:-1 ,USL: Tr3s
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4908
+#EXTINF:-1 ,USL: TV Chile
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4903
+#EXTINF:-1 ,USL: TV Chile
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8811
+#EXTINF:-1 ,USL: TV3 CAT
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4944
+#EXTINF:-1 ,USL: TVE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4894
+#EXTINF:-1 ,USL: Unimas West
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1686
+#EXTINF:-1 ,USL: Uni West
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5671
+#EXTINF:-1 ,USL: Unimas Albuquerque
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8271
+#EXTINF:-1 ,USL: Unimas Cleveland
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8599
+#EXTINF:-1 ,USL: Unimas Flagstaff
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5653
+#EXTINF:-1 ,USL: Unimas Fresno
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8604
+#EXTINF:-1 ,USL: Unimas Houston
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8606
+#EXTINF:-1 ,USL: Unimas Irving
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5691
+#EXTINF:-1 ,USL: Unimas Las Vegas
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8611
+#EXTINF:-1 ,USL: Unimas Los Angeles
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5656
+#EXTINF:-1 ,USL: Unimas New Jersey
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5526
+#EXTINF:-1 ,USL: Unimas New York
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8615
+#EXTINF:-1 ,USL: Unimas Phoenix
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8618
+#EXTINF:-1 ,USL: Unimas Raleigh
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8621
+#EXTINF:-1 ,USL: Unimas Sacramento
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8623
+#EXTINF:-1 ,USL: Unimas Salt Lake
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8624
+#EXTINF:-1 ,USL: Unimas San Antonio
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8625
+#EXTINF:-1 ,USL: Unimas Vallejo
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5654
+#EXTINF:-1 ,USL: Uni Fort Lauderdale
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5504
+#EXTINF:-1 ,USL: Uni San Francisco
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5648
+#EXTINF:-1 ,USL: Ultra Clásico
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8800
+#EXTINF:-1 ,USL: Ultra Cine
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8789
+#EXTINF:-1 ,USL: Ultra Familia
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8799
+#EXTINF:-1 ,USL: Ultra Fiesta
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8790
+#EXTINF:-1 ,USL: Ultra Film
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8791
+#EXTINF:-1 ,USL: Ultra Kidz
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8795
+#EXTINF:-1 ,USL: Ultra Luna
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8792
+#EXTINF:-1 ,USL: Ultra Macho
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8801
+#EXTINF:-1 ,USL: Ultra Mex
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8793
+#EXTINF:-1 ,USL: Ultra Tainment
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8798
+#EXTINF:-1 ,USL: V-Me
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4912
+#EXTINF:-1 ,USL: VePlus
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4885
+#EXTINF:-1 ,USL: Viajar
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4936
+#EXTINF:-1 ,USL: Videorola
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4888
+#EXTINF:-1 ,USL: ViendoMovies
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4916
+#EXTINF:-1 ,USL: Wapa (PR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2154
+#EXTINF:-1 ,USL: Wapa 2 (PR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5821
+#EXTINF:-1 ,USL: Wapa America
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2155
+#EXTINF:-1 ,USL: Wipr Canal 6 (PR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2150
+#EXTINF:-1 ,MEX: A&E
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/763
+#EXTINF:-1 ,MEX: a+ 7.2 (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8435
+#EXTINF:-1 ,MEX: adn40
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8437
+#EXTINF:-1 ,MEX: AMC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/764
+#EXTINF:-1 ,MEX: Antena 3 Internacional
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1371
+#EXTINF:-1 ,MEX: AXN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/768
+#EXTINF:-1 ,MEX: AZ Corazon
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8453
+#EXTINF:-1 ,MEX: AZ Mundo
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8457
+#EXTINF:-1 ,MEX: Azteca 7
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4909
+#EXTINF:-1 ,MEX: Azteca uno
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8436
+#EXTINF:-1 ,MEX: Canal 5
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/773
+#EXTINF:-1 ,MEX: Canal de las Estrellas
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/832
+#EXTINF:-1 ,MEX: Cinecanal
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/780
+#EXTINF:-1 ,MEX: Comedy Central
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/778
+#EXTINF:-1 ,MEX: De Pelicula
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/787
+#EXTINF:-1 ,MEX: De Pelicula Clasico
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8527
+#EXTINF:-1 ,MEX: Distrito Comedia (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/796
+#EXTINF:-1 ,MEX: E! Entertainment
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8454
+#EXTINF:-1 ,MEX: El Gourmet
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/805
+#EXTINF:-1 ,MEX: Film & Arts (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/806
+#EXTINF:-1 ,MEX: Formula
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8443
+#EXTINF:-1 ,MEX: Foro TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/815
+#EXTINF:-1 ,MEX: Fuel TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5076
+#EXTINF:-1 ,MEX: Garage TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8455
+#EXTINF:-1 ,MEX: glitz*
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/822
+#EXTINF:-1 ,MEX: Golden Edge (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/820
+#EXTINF:-1 ,MEX: Golden Plus
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/821
+#EXTINF:-1 ,MEX: History
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/823
+#EXTINF:-1 ,MEX: Hola! TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/829
+#EXTINF:-1 ,MEX: I.Sat (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/831
+#EXTINF:-1 ,MEX: Imagen TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8438
+#EXTINF:-1 ,MEX: Ingenio TV (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8444
+#EXTINF:-1 ,MEX: Lifetime
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8463
+#EXTINF:-1 ,MEX: Mas Chic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8450
+#EXTINF:-1 ,MEX: Mexiquense TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8442
+#EXTINF:-1 ,MEX: MTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/833
+#EXTINF:-1 ,MEX: Multimedios Plus
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8445
+#EXTINF:-1 ,MEX: Multimedios Television
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/834
+#EXTINF:-1 ,MEX: MVS tv (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8446
+#EXTINF:-1 ,MEX: National Geo Wild
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/837
+#EXTINF:-1 ,MEX: NU9VE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8434
+#EXTINF:-1 ,MEX: Once
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4914
+#EXTINF:-1 ,MEX: Paramount Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/843
+#EXTINF:-1 ,MEX: Sony Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8448
+#EXTINF:-1 ,MEX: Telemundo Internacional
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8458
+#EXTINF:-1 ,MEX: Televisa Del Bajio
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8439
+#EXTINF:-1 ,MEX: Televisa Monterrey
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8441
+#EXTINF:-1 ,MEX: Televisa Puebla
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8440
+#EXTINF:-1 ,MEX: Tlnovelas (SD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4886
+#EXTINF:-1 ,MEX: TV Cuatro
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4921
+#EXTINF:-1 ,MEX: TV Mas
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/856
+#EXTINF:-1 ,MEX: TVC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8452
+#EXTINF:-1 ,MEX: Unicable
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/861
+#EXTINF:-1 ,MEX: VH1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/866
+#EXTINF:-1 ,MEX: VH1 Classic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/830
+#EXTINF:-1 ,MEX: Warner TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/867
+#EXTINF:-1 ,MEX: Wobi
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/874
+#EXTINF:-1 ,US  NHL-Team:-Team: Carolina Hurricanes
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5884
+#EXTINF:-1 ,US  NHL-Team:-Team: Columbus Blue Jackets
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5877
+#EXTINF:-1 ,US  NHL-Team:-Team: Florida Panthers
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5888
+#EXTINF:-1 ,US  NHL-Team:-Team: Minnesota Wild
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5878
+#EXTINF:-1 ,US  NHL-Team:-Team: Montreal Canadiens
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5882
+#EXTINF:-1 ,US  NHL-Team:-Team: New York Islanders
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5876
+#EXTINF:-1 ,US  NHL-Team:-Team: Ottawa Senators
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5881
+#EXTINF:-1 ,US  NHL-Team:-Team: Toronto Maple Leafs
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5880
+#EXTINF:-1 ,beIN Sports 1 (Australia)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4950
+#EXTINF:-1 ,beIN Sports 2 (Australia)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4951
+#EXTINF:-1 ,beIN Sports 3 (Australia)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4952
+#EXTINF:-1 ,SPORTS: ACC Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/470
+#EXTINF:-1 ,SPORTS: AT&T Sportsnet Southwest
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/449
+#EXTINF:-1 ,SPORTS: BEIN 4
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1751
+#EXTINF:-1 ,SPORTS: BEIN 5
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1752
+#EXTINF:-1 ,SPORTS: BEIN 6
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1753
+#EXTINF:-1 ,SPORTS: BEIN 7
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1754
+#EXTINF:-1 ,SPORTS: BEIN 8
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1755
+#EXTINF:-1 ,SPORTS: BEIN En Espanol
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1749
+#EXTINF:-1 ,SPORTS: BEIN LaLiga
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1750
+#EXTINF:-1 ,SPORTS: BEIN USA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1748
+#EXTINF:-1 ,SPORTS: BEK Sports
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7033
+#EXTINF:-1 ,SPORTS: Big Ten Network (BTN)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1503
+#EXTINF:-1 ,SPORTS: Big Ten Network Alternate
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5493
+#EXTINF:-1 ,SPORTS: CSN California PLUS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/529
+#EXTINF:-1 ,SPORTS: CSN SNY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/539
+#EXTINF:-1 ,SPORTS: EDGE Sports (Test)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6899
+#EXTINF:-1 ,SPORTS: Esports TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/525
+#EXTINF:-1 ,SPORTS: Fight Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/451
+#EXTINF:-1 ,SPORTS: Gol TV English
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/454
+#EXTINF:-1 ,SPORTS: Gol TV Espanol
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/455
+#EXTINF:-1 ,SPORTS: Longhorn Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/443
+#EXTINF:-1 ,SPORTS: Marquee Sports Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6295
+#EXTINF:-1 ,SPORTS: MASN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5890
+#EXTINF:-1 ,SPORTS: MASN 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5891
+#EXTINF:-1 ,SPORTS: Mav TV HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/456
+#EXTINF:-1 ,SPORTS: MLB Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/444
+#EXTINF:-1 ,SPORTS: MSG
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/457
+#EXTINF:-1 ,SPORTS: NBA TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/447
+#EXTINF:-1 ,SPORTS: NBC Sports Bay Area
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/527
+#EXTINF:-1 ,SPORTS: NBC Sports Boston
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6233
+#EXTINF:-1 ,SPORTS: NBC Sports California
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/528
+#EXTINF:-1 ,SPORTS: NBC Sports Chicago
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/530
+#EXTINF:-1 ,SPORTS: NBC Sports Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/478
+#EXTINF:-1 ,SPORTS: NBC Sports Washington
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6232
+#EXTINF:-1 ,SPORTS: NBC Sportsnet Philadelphia
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6381
+#EXTINF:-1 ,SPORTS: NESN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5893
+#EXTINF:-1 ,SPORTS: NESN Plus
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/477
+#EXTINF:-1 ,SPORTS: NFL Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/35
+#EXTINF:-1 ,SPORTS: NFL RedZone
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/34
+#EXTINF:-1 ,SPORTS: NHL Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/471
+#EXTINF:-1 ,SPORTS: Olympic Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5334
+#EXTINF:-1 ,SPORTS: PAC 12 ARIZONA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/463
+#EXTINF:-1 ,SPORTS: PAC 12 BAYAREA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/464
+#EXTINF:-1 ,SPORTS: PAC 12 Los Angeles
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/465
+#EXTINF:-1 ,SPORTS: PAC 12 NETWORK
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/467
+#EXTINF:-1 ,SPORTS: PAC 12 OREGON
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/468
+#EXTINF:-1 ,SPORTS: PAC 12 WASHINGTON
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/469
+#EXTINF:-1 ,SPORTS: SEC Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1696
+#EXTINF:-1 ,SPORTS: Spectrum Sportsnet Dodgers
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5
+#EXTINF:-1 ,SPORTS: Spectrum Sportsnet Lakers
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6
+#EXTINF:-1 ,SPORTS: Tennis Channel HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5895
+#EXTINF:-1 ,SPORTS: Tennis TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/448
+#EXTINF:-1 ,SPORTS: The Sports Tonight channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7205
+#EXTINF:-1 ,SPORTS: TVG
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2352
+#EXTINF:-1 ,SPORTS: TyC Sports (Latino) (S)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/460
+#EXTINF:-1 ,SPORTS: Univision Deportes Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/461
+#EXTINF:-1 ,SPORTS: Willow Cricket
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2165
+#EXTINF:-1 ,SPORTS: Willow HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/762
+#EXTINF:-1 ,SPORTS: World Fishing Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/462
+#EXTINF:-1 ,SPORTS: WWE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1687
+#EXTINF:-1 ,SPORTS: Zona Futbol (Latino) (S)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5460
+#EXTINF:-1 ,SPORTSPASS 01
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8277
+#EXTINF:-1 ,SPORTSPASS 02
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8278
+#EXTINF:-1 ,SPORTSPASS 03
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8279
+#EXTINF:-1 ,SPORTSPASS 04
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8280
+#EXTINF:-1 ,TUDN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4961
+#EXTINF:-1 ,TUDNxtra 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4962
+#EXTINF:-1 ,TUDNxtra 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4963
+#EXTINF:-1 ,TUDNxtra 3
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4964
+#EXTINF:-1 ,TUDNxtra 4
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4965
+#EXTINF:-1 ,TUDNxtra 5
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4966
+#EXTINF:-1 ,TUDNxtra 6
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4967
+#EXTINF:-1 ,TUDNxtra 7
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4968
+#EXTINF:-1 ,TUDNxtra 8
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4969
+#EXTINF:-1 ,TUDNxtra 9
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4970
+#EXTINF:-1 ,TUDNxtra 10
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4971
+#EXTINF:-1 ,TUDNxtra 11
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4972
+#EXTINF:-1 ,TT: 3ABN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2198
+#EXTINF:-1 ,CARIB: Africa Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2255
+#EXTINF:-1 ,TT: BET
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2203
+#EXTINF:-1 ,TT: Canal Sony
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2213
+#EXTINF:-1 ,CARIB: Caribvision
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2260
+#EXTINF:-1 ,CARIB: Church Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2192
+#EXTINF:-1 ,TT: Cinecanal
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2226
+#EXTINF:-1 ,CARIB: CNS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2257
+#EXTINF:-1 ,TT: Comedy Central
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2212
+#EXTINF:-1 ,CARIB: CTV Comedy
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2258
+#EXTINF:-1 ,CARIB: Cuba Vision
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2204
+#EXTINF:-1 ,CARIB: CVM TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2265
+#EXTINF:-1 ,CARIB: Daystar
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2199
+#EXTINF:-1 ,CARIB: ESTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2208
+#EXTINF:-1 ,CARIB: Fame 95FM
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2183
+#EXTINF:-1 ,CARIB: GBV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2210
+#EXTINF:-1 ,CARIB: GTN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2207
+#EXTINF:-1 ,CARIB: HypeTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2251
+#EXTINF:-1 ,CARIB: Isat
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2205
+#EXTINF:-1 ,CARIB: JAM Vision
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2259
+#EXTINF:-1 ,CARIB: Jamaica Travel Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2249
+#EXTINF:-1 ,CARIB: JNN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2185
+#EXTINF:-1 ,CARIB: JNN 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2271
+#EXTINF:-1 ,TT: LoveTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2197
+#EXTINF:-1 ,CARIB: MAX
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2229
+#EXTINF:-1 ,CARIB: MAX Prime
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2227
+#EXTINF:-1 ,CARIB: MAX UP
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2228
+#EXTINF:-1 ,CARIB: MelloTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2256
+#EXTINF:-1 ,CARIB: MTM TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2262
+#EXTINF:-1 ,CARIB: PBC Jamaica
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2263
+#EXTINF:-1 ,CARIB: PBS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2214
+#EXTINF:-1 ,CARIB: RETV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2184
+#EXTINF:-1 ,CARIB: RETV 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2270
+#EXTINF:-1 ,CARIB: Smile Child
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2201
+#EXTINF:-1 ,CARIB: The World Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2200
+#EXTINF:-1 ,CARIB: TVJ
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2187
+#EXTINF:-1 ,CARIB: TVJ Sports
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2245
+#EXTINF:-1 ,CARIB: TVJ Sports Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2188
+#EXTINF:-1 ,DSTV: 1 KZN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4582
+#EXTINF:-1 ,DSTV: Africa Magic Family
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4644
+#EXTINF:-1 ,DSTV: AfricaMagic Epic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4643
+#EXTINF:-1 ,DSTV: Al Jazeera
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4622
+#EXTINF:-1 ,DSTV: Bay TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4583
+#EXTINF:-1 ,DSTV: Bloomberg
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4623
+#EXTINF:-1 ,DSTV: BVN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4624
+#EXTINF:-1 ,DSTV: Cape Town TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4584
+#EXTINF:-1 ,DSTV: CBS Justice
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4654
+#EXTINF:-1 ,DSTV: CBS Reality
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4585
+#EXTINF:-1 ,DSTV: CGTN News
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4625
+#EXTINF:-1 ,DSTV: CNBC Africa
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4626
+#EXTINF:-1 ,DSTV: Comedy Central
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4586
+#EXTINF:-1 ,DSTV: Curiosity Stream
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4649
+#EXTINF:-1 ,DSTV: Daystar
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4587
+#EXTINF:-1 ,DSTV: Deutsche Welle
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4627
+#EXTINF:-1 ,DSTV: Dumisa
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4588
+#EXTINF:-1 ,DSTV: e.tv
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4589
+#EXTINF:-1 ,DSTV: e.TV Extra
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4590
+#EXTINF:-1 ,DSTV: Emmanuel TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4628
+#EXTINF:-1 ,DSTV: eMovies
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4577
+#EXTINF:-1 ,DSTV: eNCA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4646
+#EXTINF:-1 ,DSTV: eToonz
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4591
+#EXTINF:-1 ,DSTV: EuroNews
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4653
+#EXTINF:-1 ,DSTV: FAITH
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4592
+#EXTINF:-1 ,DSTV: Fashion One
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4593
+#EXTINF:-1 ,DSTV: GauTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4594
+#EXTINF:-1 ,DSTV: Ginx eSports TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4595
+#EXTINF:-1 ,DSTV: Ignition
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4597
+#EXTINF:-1 ,DSTV: iTV Networks
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4598
+#EXTINF:-1 ,DSTV: JimJam
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4599
+#EXTINF:-1 ,DSTV: kykNET
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4640
+#EXTINF:-1 ,DSTV: Lesotho TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4600
+#EXTINF:-1 ,DSTV: M-Net
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4642
+#EXTINF:-1 ,DSTV: M-Net City
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4657
+#EXTINF:-1 ,DSTV: M-Net Movies Action
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4575
+#EXTINF:-1 ,DSTV: M-Net Movies Action Plus
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4576
+#EXTINF:-1 ,DSTV: M-Net Movies All Stars
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4639
+#EXTINF:-1 ,DSTV: M-Net Movies Smile
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4638
+#EXTINF:-1 ,DSTV: M-Net Movies Zone
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4658
+#EXTINF:-1 ,DSTV: M-Net Plus 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4645
+#EXTINF:-1 ,DSTV: Mindset
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4601
+#EXTINF:-1 ,DSTV: MojaLove
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4602
+#EXTINF:-1 ,DSTV: MTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4603
+#EXTINF:-1 ,DSTV: MTV Base
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4604
+#EXTINF:-1 ,DSTV: MTV Music 24
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4605
+#EXTINF:-1 ,DSTV: Mzansi Bioskop
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4655
+#EXTINF:-1 ,DSTV: Mzansi Magic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4641
+#EXTINF:-1 ,DSTV: Mzansi Wethu
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4656
+#EXTINF:-1 ,DSTV: NDTV247
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4629
+#EXTINF:-1 ,DSTV: Newzroom Afrika
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4630
+#EXTINF:-1 ,DSTV: Nickelodeon
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4606
+#EXTINF:-1 ,DSTV: Parliamentary Service
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4631
+#EXTINF:-1 ,DSTV: PBS Kids
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4607
+#EXTINF:-1 ,DSTV: People’s Weather
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4608
+#EXTINF:-1 ,DSTV: RAI Italia
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4632
+#EXTINF:-1 ,DSTV: Real Time
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4609
+#EXTINF:-1 ,DSTV: ROK
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4647
+#EXTINF:-1 ,DSTV: RTP Internacional
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4633
+#EXTINF:-1 ,DSTV: Russia Today
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4634
+#EXTINF:-1 ,DSTV: SABC 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4579
+#EXTINF:-1 ,DSTV: SABC 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4580
+#EXTINF:-1 ,DSTV: SABC 3
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4581
+#EXTINF:-1 ,DSTV: SOUNDCITY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4611
+#EXTINF:-1 ,DSTV: Soweto TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4612
+#EXTINF:-1 ,DSTV: Spice TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4613
+#EXTINF:-1 ,DSTV: Star Life
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4614
+#EXTINF:-1 ,DSTV: TBN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4615
+#EXTINF:-1 ,DSTV: TellyTrack
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4616
+#EXTINF:-1 ,DSTV: The Home Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4617
+#EXTINF:-1 ,DSTV: TRACE Urban
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4650
+#EXTINF:-1 ,DSTV: Travel Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4618
+#EXTINF:-1 ,DSTV: Tshwane TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4619
+#EXTINF:-1 ,DSTV: TV5 Monde Afrique
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4635
+#EXTINF:-1 ,DSTV: WWE Superslam
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4621
+#EXTINF:-1 ,PH 24 France
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4994
+#EXTINF:-1 ,PH ABS CBN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4995
+#EXTINF:-1 ,PH ABS CBN Sports Action
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4997
+#EXTINF:-1 ,PH Al Jazeera
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4998
+#EXTINF:-1 ,PH ANC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/4999
+#EXTINF:-1 ,PH Animax
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5001
+#EXTINF:-1 ,PH Arirang
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5002
+#EXTINF:-1 ,PH Asia News
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5003
+#EXTINF:-1 ,PH Asian Food Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5004
+#EXTINF:-1 ,PH AXN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5005
+#EXTINF:-1 ,PH Baby First
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5006
+#EXTINF:-1 ,PH Bloomberg
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5009
+#EXTINF:-1 ,PH Blue Ant Entertainment
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5010
+#EXTINF:-1 ,PH Celestial Classic Movies
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5013
+#EXTINF:-1 ,PH Comedy Central
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5015
+#EXTINF:-1 ,PH Disney Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5018
+#EXTINF:-1 ,PH Disney Junior
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5019
+#EXTINF:-1 ,PH DZMM Teleradyo
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5020
+#EXTINF:-1 ,PH Euronews
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5021
+#EXTINF:-1 ,PH GMA LIFE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5024
+#EXTINF:-1 ,PH GMA Pinoy TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5026
+#EXTINF:-1 ,PH Kix
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5031
+#EXTINF:-1 ,PH Living Asia
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5033
+#EXTINF:-1 ,PH MTV Live
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5036
+#EXTINF:-1 ,PH Nickelodeon
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5039
+#EXTINF:-1 ,PH Oshopping
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5040
+#EXTINF:-1 ,PH SolarSports
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5041
+#EXTINF:-1 ,PH StingrayClassica
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5042
+#EXTINF:-1 ,PH TFC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5044
+#EXTINF:-1 ,PH Thrill
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5045
+#EXTINF:-1 ,EVENT: WWE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/330
+#EXTINF:-1 ,PT: A BOLA TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5051
+#EXTINF:-1 ,PT: Afro Music
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5109
+#EXTINF:-1 ,PT: AXN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5053
+#EXTINF:-1 ,PT: AXN BLACK
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5054
+#EXTINF:-1 ,PT: AXN WHITE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5055
+#EXTINF:-1 ,PT: BENFICA TV HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5058
+#EXTINF:-1 ,PT: BIGGS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5119
+#EXTINF:-1 ,PT: BLAZE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5059
+#EXTINF:-1 ,PT: BLOOMBERG
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5060
+#EXTINF:-1 ,PT: CACA E PESCA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5062
+#EXTINF:-1 ,PT: CACAVISION
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5063
+#EXTINF:-1 ,PT: Canal 11
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5118
+#EXTINF:-1 ,PT: CANAL Q
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5065
+#EXTINF:-1 ,PT: Cancao Nova
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5072
+#EXTINF:-1 ,PT: CBS REALITY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5090
+#EXTINF:-1 ,PT: CHELSEA TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5139
+#EXTINF:-1 ,PT: Cinemundo
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5084
+#EXTINF:-1 ,PT: CMTV HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5073
+#EXTINF:-1 ,PT: CRIME & INVESTIGATION
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5074
+#EXTINF:-1 ,PT: DISNEY CHANNEL
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5078
+#EXTINF:-1 ,PT: DISNEY JUNIOR
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5079
+#EXTINF:-1 ,PT: E! ENTERTAINMENT
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5092
+#EXTINF:-1 ,PT: ELEVEN SPORTS 1 HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5083
+#EXTINF:-1 ,PT: ELEVEN SPORTS 2 HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5085
+#EXTINF:-1 ,PT: ELEVEN SPORTS 3 HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5087
+#EXTINF:-1 ,PT: ELEVEN SPORTS 4 HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5089
+#EXTINF:-1 ,PT: ELEVEN SPORTS 5 HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5091
+#EXTINF:-1 ,PT: ELEVEN SPORTS 6 HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5093
+#EXTINF:-1 ,PT: EUROSPORT
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5094
+#EXTINF:-1 ,PT: EUROSPORT 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5095
+#EXTINF:-1 ,PT: FashionTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5106
+#EXTINF:-1 ,PT: FIGHT NETWORK
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5117
+#EXTINF:-1 ,PT: GLOBO PORTUGAL
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5150
+#EXTINF:-1 ,PT: Historia
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5148
+#EXTINF:-1 ,PT: HOLLYWOOD HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5105
+#EXTINF:-1 ,PT: JIMJAM
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5107
+#EXTINF:-1 ,PT: KOMBAT SPORT
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5108
+#EXTINF:-1 ,PT: KOMBAT SPORT
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5114
+#EXTINF:-1 ,PT: Localvisao
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5146
+#EXTINF:-1 ,PT: MCM POP
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5070
+#EXTINF:-1 ,PT: Mezzo
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5080
+#EXTINF:-1 ,PT: MOTORVISION
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5067
+#EXTINF:-1 ,PT: MTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5111
+#EXTINF:-1 ,PT: NATGEO WILD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5113
+#EXTINF:-1 ,PT: NICK JR.
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5061
+#EXTINF:-1 ,PT: NICKELODEON
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5056
+#EXTINF:-1 ,PT: NOS STUDIOS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5064
+#EXTINF:-1 ,PT: PANDA HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5120
+#EXTINF:-1 ,PT: PFC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5088
+#EXTINF:-1 ,PT: PORTO CANAL
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5121
+#EXTINF:-1 ,PT: REAL MADRID TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5071
+#EXTINF:-1 ,PT: RTP 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5122
+#EXTINF:-1 ,PT: RTP 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5123
+#EXTINF:-1 ,PT: RTP 3
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5124
+#EXTINF:-1 ,PT: RTP Acores
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5125
+#EXTINF:-1 ,PT: RTP MADEIRA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5126
+#EXTINF:-1 ,PT: RTP MEMORIA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5127
+#EXTINF:-1 ,PT: SIC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5128
+#EXTINF:-1 ,PT: SIC CARAS HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5129
+#EXTINF:-1 ,PT: SIC KIDS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5130
+#EXTINF:-1 ,PT: SIC MULHER
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5131
+#EXTINF:-1 ,PT: SIC NOTICIAS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5132
+#EXTINF:-1 ,PT: SIC RADICAL
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5133
+#EXTINF:-1 ,PT: SPORT TV 3
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5137
+#EXTINF:-1 ,PT: SPORT TV 4
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5138
+#EXTINF:-1 ,PT: SPORT TV+
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5134
+#EXTINF:-1 ,PT: SPORTING  TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5077
+#EXTINF:-1 ,PT: SUNDANCE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5081
+#EXTINF:-1 ,PT: TOROS TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5145
+#EXTINF:-1 ,PT: Travel Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5100
+#EXTINF:-1 ,PT: TV FATIMA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5086
+#EXTINF:-1 ,PT: TV GLOBO
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5151
+#EXTINF:-1 ,PT: TV RECORD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5153
+#EXTINF:-1 ,PT: TV Series
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5154
+#EXTINF:-1 ,PT: TVCINE 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5155
+#EXTINF:-1 ,PT: TVCINE 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5156
+#EXTINF:-1 ,PT: TVCINE 3
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5157
+#EXTINF:-1 ,PT: TVCINE 4
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5158
+#EXTINF:-1 ,PT: TVI
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5159
+#EXTINF:-1 ,PT: TVI 24
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5160
+#EXTINF:-1 ,PT: TVI Ficcao
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5161
+#EXTINF:-1 ,PT: TVI REALITY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5152
+#EXTINF:-1 ,PT: TVI Reality Mosaico
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5147
+#EXTINF:-1 ,PT: TVSporting
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5141
+#EXTINF:-1 ,PT: VH1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5162
+#EXTINF:-1 ,US Arabic: Afaq TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7611
+#EXTINF:-1 ,US Arabic: Aghani Aghani
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7561
+#EXTINF:-1 ,US Arabic: Aghapy TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7580
+#EXTINF:-1 ,US Arabic: Al Ahly TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7594
+#EXTINF:-1 ,US Arabic: Al Arabiya
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7515
+#EXTINF:-1 ,US Arabic: Al Ekhbariya
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7601
+#EXTINF:-1 ,US Arabic: Al Fallujah TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7591
+#EXTINF:-1 ,US Arabic: Al Fath TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7600
+#EXTINF:-1 ,US Arabic: Al Hayah 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7539
+#EXTINF:-1 ,US Arabic: Al Hayah Series
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7572
+#EXTINF:-1 ,US Arabic: Al Iraqiya
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7524
+#EXTINF:-1 ,US Arabic: Al Jadeed
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7512
+#EXTINF:-1 ,US Arabic: Al Jazeera
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7513
+#EXTINF:-1 ,US Arabic: Al Jazeera Mubasher
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7550
+#EXTINF:-1 ,US Arabic: Al Maghrabiya HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7608
+#EXTINF:-1 ,US Arabic: Al Nas TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7581
+#EXTINF:-1 ,US Arabic: Al Resalah
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7559
+#EXTINF:-1 ,US Arabic: Al Yawm
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7554
+#EXTINF:-1 ,US Arabic: Alaraby TV 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7607
+#EXTINF:-1 ,US Arabic: Arabica
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7595
+#EXTINF:-1 ,US Arabic: ART Aflam 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7529
+#EXTINF:-1 ,US Arabic: ART Aflam 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7534
+#EXTINF:-1 ,US Arabic: ART America
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7558
+#EXTINF:-1 ,US Arabic: ART Cima
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7536
+#EXTINF:-1 ,US Arabic: ART Cinema
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7576
+#EXTINF:-1 ,US Arabic: ART Hekayat 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7549
+#EXTINF:-1 ,US Arabic: ART Hekayet 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7544
+#EXTINF:-1 ,US Arabic: ART Movies
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7542
+#EXTINF:-1 ,US Arabic: ART Tarab
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7586
+#EXTINF:-1 ,US Arabic: Athaqafia
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7610
+#EXTINF:-1 ,US Arabic: Bahrain International HD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7603
+#EXTINF:-1 ,US Arabic: BBC Arabic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7531
+#EXTINF:-1 ,US Arabic: Beity TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7555
+#EXTINF:-1 ,US Arabic: CBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7517
+#EXTINF:-1 ,US Arabic: CBC Drama
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7537
+#EXTINF:-1 ,US Arabic: Charity TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7584
+#EXTINF:-1 ,US Arabic: Cinema Pro
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7578
+#EXTINF:-1 ,US Arabic: Deutsche Welle
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7562
+#EXTINF:-1 ,US Arabic: DMC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7518
+#EXTINF:-1 ,US Arabic: dmc Drama
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7538
+#EXTINF:-1 ,US Arabic: Dream
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7543
+#EXTINF:-1 ,US Arabic: El Mehwar
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7590
+#EXTINF:-1 ,US Arabic: ESC-1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7540
+#EXTINF:-1 ,US Arabic: France 24
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7563
+#EXTINF:-1 ,US Arabic: Future Television
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7522
+#EXTINF:-1 ,US Arabic: Hona Baghdad
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7582
+#EXTINF:-1 ,US Arabic: Iqraa TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7579
+#EXTINF:-1 ,US Arabic: Jordan TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7547
+#EXTINF:-1 ,US Arabic: LBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7530
+#EXTINF:-1 ,US Arabic: LBCI
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7514
+#EXTINF:-1 ,US Arabic: Logos TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7573
+#EXTINF:-1 ,US Arabic: MBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7510
+#EXTINF:-1 ,US Arabic: MBC 3
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7545
+#EXTINF:-1 ,US Arabic: MBC Drama
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7523
+#EXTINF:-1 ,US Arabic: MBC Masr
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7516
+#EXTINF:-1 ,US Arabic: MEA TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7592
+#EXTINF:-1 ,US Arabic: Melody Aflam
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7528
+#EXTINF:-1 ,US Arabic: Melody Classic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7526
+#EXTINF:-1 ,US Arabic: Melody Drama
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7593
+#EXTINF:-1 ,US Arabic: Melody Hits
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7599
+#EXTINF:-1 ,US Arabic: MESat
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7577
+#EXTINF:-1 ,US Arabic: MTA 3 Al Arabiya
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7605
+#EXTINF:-1 ,US Arabic: Murr TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7511
+#EXTINF:-1 ,US Arabic: Musawa TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7553
+#EXTINF:-1 ,US Arabic: NBN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7551
+#EXTINF:-1 ,US Arabic: Nile Drama
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7541
+#EXTINF:-1 ,US Arabic: Nour Al Koddass
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7557
+#EXTINF:-1 ,US Arabic: Nour Al Shabab
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7575
+#EXTINF:-1 ,US Arabic: Nour Mariam
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7589
+#EXTINF:-1 ,US Arabic: Nour Sharq
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7568
+#EXTINF:-1 ,US Arabic: Noursat TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7560
+#EXTINF:-1 ,US Arabic: ON E
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7521
+#EXTINF:-1 ,US Arabic: On Sports
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7533
+#EXTINF:-1 ,US Arabic: OTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7520
+#EXTINF:-1 ,US Arabic: Palestine Live
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7565
+#EXTINF:-1 ,US Arabic: Peace TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7612
+#EXTINF:-1 ,US Arabic: Rotana Aflam
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7548
+#EXTINF:-1 ,US Arabic: Rotana America
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7574
+#EXTINF:-1 ,US Arabic: Rotana Cinema
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7535
+#EXTINF:-1 ,US Arabic: Rotana Classic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7566
+#EXTINF:-1 ,US Arabic: Rotana Clip
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7556
+#EXTINF:-1 ,US Arabic: Rotana Drama
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7604
+#EXTINF:-1 ,US Arabic: Rotana Khalijia
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7588
+#EXTINF:-1 ,US Arabic: Rotana Music
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7583
+#EXTINF:-1 ,US Arabic: Roya TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7532
+#EXTINF:-1 ,US Arabic: Sat 7
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7585
+#EXTINF:-1 ,US Arabic: Sat 7 Kids
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7598
+#EXTINF:-1 ,US Arabic: Saudi Quran
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7527
+#EXTINF:-1 ,US Arabic: Saudi Sunna
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7570
+#EXTINF:-1 ,US Arabic: SBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7519
+#EXTINF:-1 ,US Arabic: Shahid VIP
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7606
+#EXTINF:-1 ,US Arabic: TEN Egypt
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7569
+#EXTINF:-1 ,US Arabic: Tunis Alwataniya 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7596
+#EXTINF:-1 ,US Arabic: Tunis Alwataniya 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7597
+#EXTINF:-1 ,US Arabic: Yemen TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7587
+#EXTINF:-1 ,Dash Radio 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2064
+#EXTINF:-1 ,Dash Radio - 1 AM Radio
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2065
+#EXTINF:-1 ,Dash Radio - 11
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2066
+#EXTINF:-1 ,Dash Radio - 1234 World
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2077
+#EXTINF:-1 ,Dash Radio - 1580
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2070
+#EXTINF:-1 ,Dash Radio - 70's
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2069
+#EXTINF:-1 ,Dash Radio - 80's
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2068
+#EXTINF:-1 ,Dash Radio - 90's
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2067
+#EXTINF:-1 ,Dash Radio - Beat Junkie Radio
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2127
+#EXTINF:-1 ,Dash Radio - BREALTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2073
+#EXTINF:-1 ,Dash Radio - Bump & Grind
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2116
+#EXTINF:-1 ,Dash Radio - Cadillacc Music
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2126
+#EXTINF:-1 ,Dash Radio - Cinescore
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2087
+#EXTINF:-1 ,Dash Radio - Concerto
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2095
+#EXTINF:-1 ,Dash Radio - Dash Alternative
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2092
+#EXTINF:-1 ,Dash Radio - Dash Indie
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2093
+#EXTINF:-1 ,Dash Radio - Disco Fever
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2101
+#EXTINF:-1 ,Dash Radio - Discover
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2082
+#EXTINF:-1 ,Dash Radio - Doggystyle
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2125
+#EXTINF:-1 ,Dash Radio - Electro City
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2104
+#EXTINF:-1 ,Dash Radio - Euphoria
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2106
+#EXTINF:-1 ,Dash Radio - Fuego
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2080
+#EXTINF:-1 ,Dash Radio - Hot Button
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2123
+#EXTINF:-1 ,Dash Radio - Imperio
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2096
+#EXTINF:-1 ,Dash Radio - Independent Grind
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2074
+#EXTINF:-1 ,Dash Radio - Island Block
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2121
+#EXTINF:-1 ,Dash Radio - La Isla
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2081
+#EXTINF:-1 ,Dash Radio - LOUD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2079
+#EXTINF:-1 ,Dash Radio - Love Songs
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2086
+#EXTINF:-1 ,Dash Radio - Main Stage
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2114
+#EXTINF:-1 ,Dash Radio - Monstercat
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2107
+#EXTINF:-1 ,Dash Radio - Moonlight
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2115
+#EXTINF:-1 ,Dash Radio - Native Rhymes
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2084
+#EXTINF:-1 ,Dash Radio - Paradise City
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2117
+#EXTINF:-1 ,Dash Radio - Press Play
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2113
+#EXTINF:-1 ,Dash Radio - Pure Soul Powered By Isaac Hayes
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2075
+#EXTINF:-1 ,Dash Radio - Quality Control Music
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2088
+#EXTINF:-1 ,Dash Radio - Quiet Melon
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2099
+#EXTINF:-1 ,Dash Radio - Ratpack
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2103
+#EXTINF:-1 ,Dash Radio - Red Cup
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2091
+#EXTINF:-1 ,Dash Radio - Reggae King
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2119
+#EXTINF:-1 ,Dash Radio - Remember
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2083
+#EXTINF:-1 ,Dash Radio - Reventon
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2097
+#EXTINF:-1 ,Dash Radio - SKEENET
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2076
+#EXTINF:-1 ,Dash Radio - Subdustrial
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2105
+#EXTINF:-1 ,Dash Radio - Swing
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2102
+#EXTINF:-1 ,Dash Radio - The Bridge
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2111
+#EXTINF:-1 ,Dash Radio - The City
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2085
+#EXTINF:-1 ,Dash Radio - The Cross
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2112
+#EXTINF:-1 ,Dash Radio - The Cut
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2089
+#EXTINF:-1 ,Dash Radio - The Lab
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2108
+#EXTINF:-1 ,Dash Radio - The Oldies
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2100
+#EXTINF:-1 ,Dash Radio - The Ranch
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2094
+#EXTINF:-1 ,Dash Radio - The Shane Show
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2124
+#EXTINF:-1 ,Dash Radio - The Strip
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2118
+#EXTINF:-1 ,Dash Radio - Theory Of Mind
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2122
+#EXTINF:-1 ,Dash Radio - What The Funk
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2072
+#EXTINF:-1 ,Dash Radio - XXL
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2078
+#EXTINF:-1 ,Dash Radio - Y2K
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2098
+#EXTINF:-1 ,Dash Radio - YG Presents
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2120
+#EXTINF:-1 ,Dash Radio - Zoetic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/2110
+#EXTINF:-1 ,iHeart: 60s Radio
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8139
+#EXTINF:-1 ,iHeart: 104-5 The Zone (Sports)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8211
+#EXTINF:-1 ,iHeart: 107.5 WBLS (Hip-Hop/R&B)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8162
+#EXTINF:-1 ,iHeart: 1070 The Fan (Sports)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8216
+#EXTINF:-1 ,iHeart: 1075 The Game (Sports)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8223
+#EXTINF:-1 ,iHeart: 50s Radio
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8138
+#EXTINF:-1 ,iHeart: 70s Radio
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8140
+#EXTINF:-1 ,iHeart: 80s Radio
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8141
+#EXTINF:-1 ,iHeart: 90s Radio
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8142
+#EXTINF:-1 ,iHeart: 97.5 The Fanatic (Sports)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8204
+#EXTINF:-1 ,iHeart: 99.1 KGGI
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8132
+#EXTINF:-1 ,iHeart: All My Jams (Hip-Hop/R&B)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8150
+#EXTINF:-1 ,iHeart: All My Jams Top 20 (Hip-Hop/R&B)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8151
+#EXTINF:-1 ,iHeart: American Top 40
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8134
+#EXTINF:-1 ,iHeart: Big Classic Hits
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8146
+#EXTINF:-1 ,iHeart: Cool Oldies
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8145
+#EXTINF:-1 ,iHeart: Country 90s Radio (Country)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8225
+#EXTINF:-1 ,iHeart: Country Classics (Country)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8228
+#EXTINF:-1 ,iHeart: Country Radio (Country)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8226
+#EXTINF:-1 ,iHeart: Country Top 30 w/Bobby Bones (Country)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8227
+#EXTINF:-1 ,iHeart: FL Miami Hits 97.3
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8188
+#EXTINF:-1 ,iHeart: Fly Nation Radio (Hip-Hop/R&B)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8152
+#EXTINF:-1 ,iHeart: Glory 98.5 (Gospel)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8197
+#EXTINF:-1 ,iHeart: Heaven 1460 (Gospel)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8198
+#EXTINF:-1 ,iHeart: Highwaymen Radio (Country)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8229
+#EXTINF:-1 ,iHeart: Hit Nation
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8133
+#EXTINF:-1 ,iHeart: Hit Nation Junior (Family)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8166
+#EXTINF:-1 ,iHeart: HOT 97 (Hip-Hop/R&B)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8160
+#EXTINF:-1 ,iHeart: Jox 94.5 FM (Sports)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8215
+#EXTINF:-1 ,iHeart: Kids Club Radio (Family)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8167
+#EXTINF:-1 ,iHeart: Kids Hits (Family)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8168
+#EXTINF:-1 ,iHeart: KNBR 1050 (Sports)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8212
+#EXTINF:-1 ,iHeart: KNBR 680 (Sports)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8203
+#EXTINF:-1 ,iHeart: Master of the Mix (Hip-Hip/R&B)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8154
+#EXTINF:-1 ,iHeart: New Country (Country)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8231
+#EXTINF:-1 ,iHeart: POWER106 (Hip-Hop/R&B)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8161
+#EXTINF:-1 ,iHeart: Radio Disney (Family)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8165
+#EXTINF:-1 ,iHeart: Real Oldies
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8136
+#EXTINF:-1 ,iHeart: Rock the Cradle (Family)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8169
+#EXTINF:-1 ,iHeart: Slow Jams (Hip-Hip/R&B)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8153
+#EXTINF:-1 ,iHeart: Smooth Jazz
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8143
+#EXTINF:-1 ,iHeart: The Beat (Hip-Hop/R&B)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8148
+#EXTINF:-1 ,iHeart: The Beat Top 20 (Hip-Hip/R&B)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8155
+#EXTINF:-1 ,iHeart: The Fan (Sports)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8221
+#EXTINF:-1 ,iHeart: The Nashville Channel (Country)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8230
+#EXTINF:-1 ,iHeart: The Sports Animal (Sports)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8213
+#EXTINF:-1 ,iHeart: The Standard Radio
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8144
+#EXTINF:-1 ,iHeart: The Ticket (Sports)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8206
+#EXTINF:-1 ,iHeart: Ticket 760 (Sports)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8224
+#EXTINF:-1 ,iHeart: WAY-FM (Gospel)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8195
+#EXTINF:-1 ,iHeart: WiLD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8135
+#EXTINF:-1 ,Music Choice 00: 70s Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1569
+#EXTINF:-1 ,Music Choice 01: 80sRock Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1570
+#EXTINF:-1 ,Music Choice 02: 80s Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1571
+#EXTINF:-1 ,Music Choice 05: All Christmas Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1574
+#EXTINF:-1 ,Music Choice 06: Alternative Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1575
+#EXTINF:-1 ,Music Choice 07: Alternative R&B Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1576
+#EXTINF:-1 ,Music Choice 08: Alternative Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1577
+#EXTINF:-1 ,Music Choice 09: Americana Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1578
+#EXTINF:-1 ,Music Choice 10: Bluegrass Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1579
+#EXTINF:-1 ,Music Choice 11: Blues Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1580
+#EXTINF:-1 ,Music Choice 12: Brazilian Pop Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1581
+#EXTINF:-1 ,Music Choice 13: Brits Hits Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1582
+#EXTINF:-1 ,Music Choice 14: Brits Hits Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1583
+#EXTINF:-1 ,Music Choice 15: Classic Alternative Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1584
+#EXTINF:-1 ,Music Choice 16: Classic Country Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1585
+#EXTINF:-1 ,Music Choice 17: Classic Dance Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1586
+#EXTINF:-1 ,Music Choice 18: Classic Metal Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1587
+#EXTINF:-1 ,Music Choice 19: Classic Rock Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1588
+#EXTINF:-1 ,Music Choice 20: Classical Masterpieces Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1589
+#EXTINF:-1 ,Music Choice 21: Contemporary Christian Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1590
+#EXTINF:-1 ,Music Choice 22: Country Hits Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1591
+#EXTINF:-1 ,Music Choice 23: Dance/EDM Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1592
+#EXTINF:-1 ,Music Choice 24: Dance/EDM Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1593
+#EXTINF:-1 ,Music Choice 25: Easy/Listening Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1594
+#EXTINF:-1 ,Music Choice 26: EmoXScreamo Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1595
+#EXTINF:-1 ,Music Choice 28: Folk Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1597
+#EXTINF:-1 ,Music Choice 29: Funk Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1598
+#EXTINF:-1 ,Music Choice 30: Gospel Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1599
+#EXTINF:-1 ,Music Choice 31: HipHop & R&B Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1600
+#EXTINF:-1 ,Music Choice 32: Hip-Hop & R&B Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1601
+#EXTINF:-1 ,Music Choice 33: Hip-Hop Classics Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1602
+#EXTINF:-1 ,Music Choice 34: Hit List Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1603
+#EXTINF:-1 ,Music Choice 35: Hit List Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1604
+#EXTINF:-1 ,Music Choice 36: Indie Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1605
+#EXTINF:-1 ,Music Choice 37: Indie Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1606
+#EXTINF:-1 ,Music Choice 38: Jazz Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1607
+#EXTINF:-1 ,Music Choice 39: K Pop Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1608
+#EXTINF:-1 ,Music Choice 40: Kids Movie Soundtracks Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1609
+#EXTINF:-1 ,Music Choice 41: Kidz Only Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1610
+#EXTINF:-1 ,Music Choice 43: Latin Jazz Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1612
+#EXTINF:-1 ,Music Choice 45: Lounge Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1614
+#EXTINF:-1 ,Music Choice 46: Love Songs Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1615
+#EXTINF:-1 ,Music Choice 47: Metal Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1616
+#EXTINF:-1 ,Music Choice 48: Metal Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1617
+#EXTINF:-1 ,Music Choice 49: Mexicana Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1618
+#EXTINF:-1 ,Music Choice 50: Mexicana Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1619
+#EXTINF:-1 ,Music Choice 51: Music Choice Max Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1620
+#EXTINF:-1 ,Music Choice 52: Musica Urbana Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1621
+#EXTINF:-1 ,Music Choice 53: Musica Urbana Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1622
+#EXTINF:-1 ,Music Choice 54: New Wave Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1623
+#EXTINF:-1 ,Music Choice 55: Opera Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1624
+#EXTINF:-1 ,Music Choice 56: Party Favorites Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1625
+#EXTINF:-1 ,Music Choice 57: Pop & Country Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1626
+#EXTINF:-1 ,Music Choice 58: Pop Hits Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1627
+#EXTINF:-1 ,Music Choice 59: Pop Hits Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1628
+#EXTINF:-1 ,Music Choice 60: Pop Latino Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1629
+#EXTINF:-1 ,Music Choice 61: Pop Latino Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1630
+#EXTINF:-1 ,Music Choice 62: Pop & Country Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1631
+#EXTINF:-1 ,Music Choice 63: Punk Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1632
+#EXTINF:-1 ,Music Choice 64: R&B Soul Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1633
+#EXTINF:-1 ,Music Choice 65: R&B Soul Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1635
+#EXTINF:-1 ,Music Choice 67: Rap Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1636
+#EXTINF:-1 ,Music Choice 68: Rap 2K Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1637
+#EXTINF:-1 ,Music Choice 69: Rap 2K Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1638
+#EXTINF:-1 ,Music Choice 70: Reggae Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1639
+#EXTINF:-1 ,Music Choice 71: R&B Classics Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1640
+#EXTINF:-1 ,Music Choice 72: Rock Hits Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1641
+#EXTINF:-1 ,Music Choice 73: Rock Latino Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1642
+#EXTINF:-1 ,Music Choice 74: Rock Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1643
+#EXTINF:-1 ,Music Choice 75: Rock Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1644
+#EXTINF:-1 ,Music Choice 76: Romances Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1645
+#EXTINF:-1 ,Music Choice 77: Singers & Swing Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1646
+#EXTINF:-1 ,Music Choice 78: Smooth Jazz Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1647
+#EXTINF:-1 ,Music Choice 79: Soft Rock Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1648
+#EXTINF:-1 ,Music Choice 80: Solid Gold Oldies Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1649
+#EXTINF:-1 ,Music Choice 81: Sounds of The Seasons Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1650
+#EXTINF:-1 ,Music Choice 82: Soundscapes Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1651
+#EXTINF:-1 ,Music Choice 83: Stage & Screen Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1652
+#EXTINF:-1 ,Music Choice 84: Teen Beats Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1653
+#EXTINF:-1 ,Music Choice 85: Teen Beats Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1654
+#EXTINF:-1 ,Music Choice 86: Teen Ritmos Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1655
+#EXTINF:-1 ,Music Choice 87: Throwback Jamz Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1656
+#EXTINF:-1 ,Music Choice 88: Throwback Jamz Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1657
+#EXTINF:-1 ,Music Choice 89: TodaysCountry Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1658
+#EXTINF:-1 ,Music Choice 90: Todays Country Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1659
+#EXTINF:-1 ,Music Choice 91: Toddler Tunes Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1660
+#EXTINF:-1 ,Music Choice 92: Toddler Tunes Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1661
+#EXTINF:-1 ,Music Choice 93: Tropicales Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1662
+#EXTINF:-1 ,Music Choice 94: Tropicales Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1663
+#EXTINF:-1 ,Music Choice 95: Underground Hip-Hop Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1664
+#EXTINF:-1 ,Music Choice 96: Y2K Music Videos
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1665
+#EXTINF:-1 ,Music Choice 97: Y2K Audio Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1666
+#EXTINF:-1 ,UNIMASEAST
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8603
+#EXTINF:-1 ,Oklahoma City CW 34 (KOCB)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8852
+#EXTINF:-1 ,Las Vegas CW 33 (KVCW)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8853
+#EXTINF:-1 ,Sacramento CW 31 (KMAX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8854
+#EXTINF:-1 ,USA: QVC 3
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8856
+#EXTINF:-1 ,USA: Beauty iQ
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8857
+#EXTINF:-1 ,USL: Azteca America
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8858
+#EXTINF:-1 ,USL: Telemundo Los Angeles
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8859
+#EXTINF:-1 ,Religious: Better Life Nature
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8860
+#EXTINF:-1 ,Religious: Bible Exploration
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8861
+#EXTINF:-1 ,San Antonio CBS 5 (KENS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8865
+#EXTINF:-1 ,L: USL: Telemundo (KVDA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8868
+#EXTINF:-1 ,Tulsa NBC 2 (KJRH)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8870
+#EXTINF:-1 ,Tulsa CBS 6 (KOTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8872
+#EXTINF:-1 ,Juneau ABC 8 (KJUD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8873
+#EXTINF:-1 ,Baton Rouge NBC 33 (WVLA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8877
+#EXTINF:-1 ,Baton Rouge CBS 9 (WAFB)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8878
+#EXTINF:-1 ,Harrisburg NBC 8 (WGAL)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8883
+#EXTINF:-1 ,Harrisburg CBS 21 (WHP)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8885
+#EXTINF:-1 ,L: Louisiana Shreveport NBC (KTAL)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8887
+#EXTINF:-1 ,L: Louisiana Shreveport CBS (KSLA)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8889
+#EXTINF:-1 ,Pensacola  NBC-WPMI
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8892
+#EXTINF:-1 ,Pensacola CBS 5 (WKRG)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8893
+#EXTINF:-1 ,Pensacola MyNet 35 (WFGX)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8894
+#EXTINF:-1 ,Albany CW 45 (WCWN)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8897
+#EXTINF:-1 ,Albany CBS 6 (WRGB)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8898
+#EXTINF:-1 ,Albany NBC 13 (WNYT)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8899
+#EXTINF:-1 ,Greensboro North Carolina MYTV (WMYV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8900
+#EXTINF:-1 ,USA: Redbull TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8901
+#EXTINF:-1 ,USA: M2O Music
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8902
+#EXTINF:-1 ,USA: Atlanta Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8903
+#EXTINF:-1 ,USA: New Orleans TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8904
+#EXTINF:-1 ,USA: TVW Washington State TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8905
+#EXTINF:-1 ,USA: Lake Tahoe TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8906
+#EXTINF:-1 ,CA: CTV North Bay
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8909
+#EXTINF:-1 ,CA: CTV Sudbury
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8910
+#EXTINF:-1 ,CA: CTV Regina
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8911
+#EXTINF:-1 ,CA: CTV Sydney
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8912
+#EXTINF:-1 ,CA: CTV Moncton
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8913
+#EXTINF:-1 ,CA: CTV Winnipeg
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8914
+#EXTINF:-1 ,CA: CTV Life Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8915
+#EXTINF:-1 ,CA: CTV2 Victoria
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8916
+#EXTINF:-1 ,CA: CTV Timmins
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8917
+#EXTINF:-1 ,CA: CTV Sault Ste. Marie
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8918
+#EXTINF:-1 ,CA: CTV2 Toronto
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8919
+#EXTINF:-1 ,CA: CTV Atlantic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8920
+#EXTINF:-1 ,CA: CTV2 Atlantic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8921
+#EXTINF:-1 ,CA: CTV2 London
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8924
+#EXTINF:-1 ,CA Rogers TV London
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8925
+#EXTINF:-1 ,CA: T+E
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8953
+#EXTINF:-1 ,TT: Humour TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9526
+#EXTINF:-1 ,TT: STARZ Comedy
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9348
+#EXTINF:-1 ,TT: AL Jazeera
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8986
+#EXTINF:-1 ,TT: ABC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9013
+#EXTINF:-1 ,TT: A&E
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9112
+#EXTINF:-1 ,TT: AAPKA Colors
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9113
+#EXTINF:-1 ,TT: AIR Link TV 1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9187
+#EXTINF:-1 ,TT: Comet TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9478
+#EXTINF:-1 ,TT: NASA TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9779
+#EXTINF:-1 ,TT: NASA Media
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9780
+#EXTINF:-1 ,TT: Pursuit
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9782
+#EXTINF:-1 ,TT: CCTV4
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9783
+#EXTINF:-1 ,TT: CTNi
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9786
+#EXTINF:-1 ,TT: Venevision
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9787
+#EXTINF:-1 ,TT: BVN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9788
+#EXTINF:-1 ,TT: NBC Sport
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9790
+#EXTINF:-1 ,USA: CHARGE!
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9528
+#EXTINF:-1 ,Miami  CW
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9185
+#EXTINF:-1 ,Religious: Hillsong
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9799
+#EXTINF:-1 ,TT: CNC3
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8960
+#EXTINF:-1 ,TT: GAYELLE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8962
+#EXTINF:-1 ,TT: IBN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8965
+#EXTINF:-1 ,TT: TIN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8967
+#EXTINF:-1 ,TT: PARLIAMENT
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8968
+#EXTINF:-1 ,TT: JAAGRITI TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8971
+#EXTINF:-1 ,TT: TBN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8973
+#EXTINF:-1 ,TT: POSITIV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8974
+#EXTINF:-1 ,TT: EWTN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8975
+#EXTINF:-1 ,TT: Hillsong
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8976
+#EXTINF:-1 ,TT: NBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8979
+#EXTINF:-1 ,TT: PBS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8982
+#EXTINF:-1 ,TT: Disney XD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8983
+#EXTINF:-1 ,TT: DIY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8990
+#EXTINF:-1 ,TT: GRIT
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8996
+#EXTINF:-1 ,TT: I-SAT
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9004
+#EXTINF:-1 ,TT: SOAC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9018
+#EXTINF:-1 ,TT: BBC World
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9026
+#EXTINF:-1 ,TT: SCIENCE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9027
+#EXTINF:-1 ,TT: Paramount Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9046
+#EXTINF:-1 ,TT: SPORTSMAX1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9047
+#EXTINF:-1 ,TT: SPORTSMAX2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9048
+#EXTINF:-1 ,TT: MTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9054
+#EXTINF:-1 ,TT: CBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9062
+#EXTINF:-1 ,TT: SONY INDIA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9101
+#EXTINF:-1 ,TT: HJTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9110
+#EXTINF:-1 ,TT: HGPTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9111
+#EXTINF:-1 ,TT: QUBO
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9143
+#EXTINF:-1 ,TT: GUYANA LEARNING
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9198
+#EXTINF:-1 ,TT: OWN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9217
+#EXTINF:-1 ,TT: HLN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9218
+#EXTINF:-1 ,TT: Hallmark
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9221
+#EXTINF:-1 ,TT: Freeform
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9223
+#EXTINF:-1 ,TT: SONY MAX
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9224
+#EXTINF:-1 ,TT: MSNBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9227
+#EXTINF:-1 ,TT: NBA TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9228
+#EXTINF:-1 ,TT: DAYSTAR
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9303
+#EXTINF:-1 ,TT: IFC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9331
+#EXTINF:-1 ,TT: NCN GUYANA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9336
+#EXTINF:-1 ,TT: Showtime
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9343
+#EXTINF:-1 ,TT: Showtime 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9344
+#EXTINF:-1 ,TT: Showtime Extreme
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9345
+#EXTINF:-1 ,TT: FYI
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9366
+#EXTINF:-1 ,TT: BEIN Sports
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9380
+#EXTINF:-1 ,TT: GIS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9474
+#EXTINF:-1 ,TT: QUEST
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9479
+#EXTINF:-1 ,TT: PRO Sports
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9489
+#EXTINF:-1 ,TT: SPORTSMAX2 NOC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9490
+#EXTINF:-1 ,TT: MAX PRIME NOC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9491
+#EXTINF:-1 ,TT: Hallmark TRI-BKS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9495
+#EXTINF:-1 ,TT: BZN TO DA BONE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9498
+#EXTINF:-1 ,TT: Hallmark Movies & Mysteries
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9500
+#EXTINF:-1 ,TT: KREM TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9503
+#EXTINF:-1 ,TT: LOVE TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9504
+#EXTINF:-1 ,TT: CITY TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9507
+#EXTINF:-1 ,TT: Cooking Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9510
+#EXTINF:-1 ,TT: Fuse
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9512
+#EXTINF:-1 ,TT: Bravo
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9513
+#EXTINF:-1 ,TT: BET HER
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9514
+#EXTINF:-1 ,TT: INFINITY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9524
+#EXTINF:-1 ,TT: CINEFUSION
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9525
+#EXTINF:-1 ,TT: Family Time
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9527
+#EXTINF:-1 ,TT: Charming China
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9532
+#EXTINF:-1 ,TT: CBC Info Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9543
+#EXTINF:-1 ,TT: SPORTSMAX
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9709
+#EXTINF:-1 ,TT: Fashion One
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9728
+#EXTINF:-1 ,TT: B4U Movies
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9729
+#EXTINF:-1 ,TT: SONY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9731
+#EXTINF:-1 ,TT: REVOLT
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9737
+#EXTINF:-1 ,TT: GOD TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9738
+#EXTINF:-1 ,TT: SBN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9739
+#EXTINF:-1 ,TT: CTN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9740
+#EXTINF:-1 ,TT: DW English
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9742
+#EXTINF:-1 ,TT: Bounce TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9747
+#EXTINF:-1 ,TT: BYU TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9748
+#EXTINF:-1 ,TT: Create TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9749
+#EXTINF:-1 ,TT: CTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9753
+#EXTINF:-1 ,TT: E! Entertainment
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9754
+#EXTINF:-1 ,TT: Mystery
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9756
+#EXTINF:-1 ,TT: GSN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9762
+#EXTINF:-1 ,TT: History
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9763
+#EXTINF:-1 ,TT: LIVING FAITH
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9766
+#EXTINF:-1 ,TT: MGM
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9768
+#EXTINF:-1 ,TT: PBS KIDS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9770
+#EXTINF:-1 ,TT: TTT
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8966
+#EXTINF:-1 ,TT: TRINITY TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8972
+#EXTINF:-1 ,TT: TRU TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8995
+#EXTINF:-1 ,TT: Travel Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8998
+#EXTINF:-1 ,TT: TRAVEL & LIVING
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9032
+#EXTINF:-1 ,TT: TV ASIA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9131
+#EXTINF:-1 ,TT: WILLOW
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9188
+#EXTINF:-1 ,TT: USA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9229
+#EXTINF:-1 ,TT: STARZ
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9347
+#EXTINF:-1 ,TT: STARZ EDGE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9349
+#EXTINF:-1 ,TT: STARZ KIDS & FAMILY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9350
+#EXTINF:-1 ,TT: TELEMUNDO
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9354
+#EXTINF:-1 ,TT: WE TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9361
+#EXTINF:-1 ,TT: TV ONE
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9368
+#EXTINF:-1 ,TT: WARNER TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9472
+#EXTINF:-1 ,TT: UNIMAS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9477
+#EXTINF:-1 ,TT: WAVE TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9501
+#EXTINF:-1 ,TT: NICK TOONS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9518
+#EXTINF:-1 ,TT: NICK JR
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9519
+#EXTINF:-1 ,TT: UNIVISION
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9520
+#EXTINF:-1 ,TT: WeatherNation
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9542
+#EXTINF:-1 ,TT: TEEN NICK
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9553
+#EXTINF:-1 ,TT: WARNER
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9663
+#EXTINF:-1 ,TT: WGN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9730
+#EXTINF:-1 ,TT: NEWSY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9744
+#EXTINF:-1 ,TT: ME TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9767
+#EXTINF:-1 ,Wowza3 AXN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9231
+#EXTINF:-1 ,Wowza3 BBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9232
+#EXTINF:-1 ,Wowza3 CBS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9236
+#EXTINF:-1 ,Wowza3 HISTORY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9240
+#EXTINF:-1 ,Wowza3 LIFETIME
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9241
+#EXTINF:-1 ,Wowza3 LMN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9242
+#EXTINF:-1 ,Wowza3 NBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9243
+#EXTINF:-1 ,Wowza3 NICKELODEON
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9244
+#EXTINF:-1 ,Wowza3 SONY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9245
+#EXTINF:-1 ,TT: TV6
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9248
+#EXTINF:-1 ,Wowza3 WARNER
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9249
+#EXTINF:-1 ,Wowza3 ZEE_CINEMA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9250
+#EXTINF:-1 ,Wowza3 FOOD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9252
+#EXTINF:-1 ,Wowza3 3ABN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9254
+#EXTINF:-1 ,Wowza3 ACTS25
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9256
+#EXTINF:-1 ,Wowza3 A&E
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9257
+#EXTINF:-1 ,Wowza3 ALJAZEERA
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9258
+#EXTINF:-1 ,Wowza3 AMC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9259
+#EXTINF:-1 ,Wowza3 DISNEY
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9269
+#EXTINF:-1 ,Wowza3 DISNEY XD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9270
+#EXTINF:-1 ,Wowza3 E
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9271
+#EXTINF:-1 ,Wowza3 EWTN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9274
+#EXTINF:-1 ,Wowza3 GSN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9276
+#EXTINF:-1 ,Wowza3 HLN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9279
+#EXTINF:-1 ,Wowza3 IETV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9280
+#EXTINF:-1 ,Wowza3 JAAGRITI
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9281
+#EXTINF:-1 ,Wowza3 MSNBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9283
+#EXTINF:-1 ,Wowza3 NATGEO
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9284
+#EXTINF:-1 ,Wowza3 NBC SPORTS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9285
+#EXTINF:-1 ,Wowza3 PARAMOUNT NETWORK
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9286
+#EXTINF:-1 ,Wowza3 PARLIAMENT
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9287
+#EXTINF:-1 ,TT: Sankhya TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9288
+#EXTINF:-1 ,Wowza3 TBN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9289
+#EXTINF:-1 ,TT: TIC 4
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9293
+#EXTINF:-1 ,TT: Travel Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9296
+#EXTINF:-1 ,Wowza3 UNIVERSAL
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9297
+#EXTINF:-1 ,Wowza3 VH1
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9298
+#EXTINF:-1 ,Wowza3 WILLOW
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9299
+#EXTINF:-1 ,Wowza3 CNBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9300
+#EXTINF:-1 ,USA: CONTV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9805
+#EXTINF:-1 ,USA: NBCLX
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9806
+#EXTINF:-1 ,SPORTS: FS College Atlantic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9808
+#EXTINF:-1 ,SPORTS: FS College Central
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9809
+#EXTINF:-1 ,SPORTS: FS College Pacific
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9810
+#EXTINF:-1 ,USA: Movies!
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9811
+#EXTINF:-1 ,USA: ET Live
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9812
+#EXTINF:-1 ,USA: USA Network West
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9826
+#EXTINF:-1 ,CBS Sports HQ
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9827
+#EXTINF:-1 ,Tucson CBS 13 (KOLD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7053
+#EXTINF:-1 ,Albuquerque ABC 23 (KERO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7054
+#EXTINF:-1 ,Sacramento ABC 10 (KXTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7055
+#EXTINF:-1 ,Corpus Christi NBC 6 (KRIS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7056
+#EXTINF:-1 ,Corpus Christi CBS 10 (KZTV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7058
+#EXTINF:-1 ,USA: Paramount Network West
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/10166
+#EXTINF:-1 ,USA: VH1 West
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/10170
+#EXTINF:-1 ,USA: Comedy Central West
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/10171
+#EXTINF:-1 ,NN: New York CBSNEWS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/10176
+#EXTINF:-1 ,NN: Los Angeles CBSNEWS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/10177
+#EXTINF:-1 ,NN: Boston CBSNEWS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/10178
+#EXTINF:-1 ,NN: San Francisco CBSNEWS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/10179
+#EXTINF:-1 ,NN: Minnesota CBSNEWS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/10180
+#EXTINF:-1 ,NN: Denver CBSNEWS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/10181
+#EXTINF:-1 ,NN: Pittsburgh CBSNEWS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/10182
+#EXTINF:-1 ,NN: Philadelphia CBSNEWS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/10183
+#EXTINF:-1 ,NN: Chicago CBSNEWS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/10184
+#EXTINF:-1 ,NN: Dallas CBSNEWS
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/10185
+#EXTINF:-1 ,Pro Sports Grid
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/10189
+#EXTINF:-1 ,PPV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/10190
+#EXTINF:-1 ,PPV 05:
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/10193
+#EXTINF:-1 ,USL: Unimas Denver
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8270
+#EXTINF:-1 ,USL: Unimas Orlando
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8273
+#EXTINF:-1 ,USL: Unimas Boston Unimas
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/8274
+#EXTINF:-1 ,USL: Telemundo Atlanta  (WKTB)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5543
+#EXTINF:-1 ,USL:  Telemundo Boston (WNEU)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5555
+#EXTINF:-1 ,USL: Telemundo New Jersey (WNJU)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5556
+#EXTINF:-1 ,USL: Telemundo Hartford (WRDM)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5571
+#EXTINF:-1 ,USL: Telemundo Tampa (WRMD)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5574
+#EXTINF:-1 ,USL: Telemundo Miami (WSCV)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5577
+#EXTINF:-1 ,USL: Telemundo Chicago (WSNS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5580
+#EXTINF:-1 ,USL: Telemundo Orlando (WTMO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5589
+#EXTINF:-1 ,USL: Telemundo Philadelphia (WWSI)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5608
+#EXTINF:-1 ,USL: Telemundo Washington DC (WZDC)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5619
+#EXTINF:-1 ,USL: Telemundo Las Vegas (KBLR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5631
+#EXTINF:-1 ,USL: Telemundo Sacramento (KCSO)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5642
+#EXTINF:-1 ,USL: Telemundo Denver (KDEN)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5643
+#EXTINF:-1 ,USL: Telemundo Tucson (KHRR)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5664
+#EXTINF:-1 ,USL: Telemundo San Jose (KSTS)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5692
+#EXTINF:-1 ,USL: Telemundo Arizona (KTAZ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5695
+#EXTINF:-1 ,USL: Unimas Austin
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5697
+#EXTINF:-1 ,USL: Telemundo Rio Grande (KTLM)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5698
+#EXTINF:-1 ,USL: Telemundo Salt Lake City  (KTMWTL)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5699
+#EXTINF:-1 ,USL: Telemundo Oklahoma City (KTUZ)
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/5701
+#EXTINF:-1 ,USA: El Rey
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/1
+#EXTINF:-1 ,USA: Cleo TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/41
+#EXTINF:-1 ,USA: Grit
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/22
+#EXTINF:-1 ,LBW: TeenNick
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6478
+#EXTINF:-1 ,LBW: Travel Channel East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6481
+#EXTINF:-1 ,LBW: TV Land East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6486
+#EXTINF:-1 ,LBW: Universal Kids East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6487
+#EXTINF:-1 ,LBW: USA Network East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6488
+#EXTINF:-1 ,LBW: VH1 East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6490
+#EXTINF:-1 ,LBW: The Weather Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6494
+#EXTINF:-1 ,LBW: We TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6495
+#EXTINF:-1 ,LBW: Cheddar Business
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6923
+#EXTINF:-1 ,LBW: Freeform
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6924
+#EXTINF:-1 ,LBW: Disney Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6925
+#EXTINF:-1 ,LBW: Disney XD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6926
+#EXTINF:-1 ,LBW: Disney Junior
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6927
+#EXTINF:-1 ,LBW: FXX
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6948
+#EXTINF:-1 ,LBW: Universal Kids
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6952
+#EXTINF:-1 ,LBW: Revolt
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6955
+#EXTINF:-1 ,LBW: AccuWeather
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6957
+#EXTINF:-1 ,LBW: Comedy Central
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6964
+#EXTINF:-1 ,LBW: Ovation
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6968
+#EXTINF:-1 ,LBW: ActionMax
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6969
+#EXTINF:-1 ,LBW: EPIX 2
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6971
+#EXTINF:-1 ,LBW: EPIX
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6972
+#EXTINF:-1 ,LBW: STARZ East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6974
+#EXTINF:-1 ,LBW: STARZ Encore East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6975
+#EXTINF:-1 ,LBW: STARZ Kids & Family
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6976
+#EXTINF:-1 ,LBW: Hallmark Drama
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6978
+#EXTINF:-1 ,LBW: HDNET MOVIES
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6980
+#EXTINF:-1 ,LBW: Lifetime Movie Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6983
+#EXTINF:-1 ,LBW: STARZ Encore Action
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6987
+#EXTINF:-1 ,LBW: STARZ ENCORE Classic
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6988
+#EXTINF:-1 ,LBW: STARZ ENCORE Black
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6989
+#EXTINF:-1 ,LBW: STARZ ENCORE Westerns
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6990
+#EXTINF:-1 ,LBW: STARZ ENCORE Family
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6991
+#EXTINF:-1 ,LBW: STARZ ENCORE Suspense
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6992
+#EXTINF:-1 ,LBW: Starz Encore West
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6994
+#EXTINF:-1 ,LBW: AXS TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6997
+#EXTINF:-1 ,LBW: ACC Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7009
+#EXTINF:-1 ,LBW: SEC Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7015
+#EXTINF:-1 ,LBW: Big Ten Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7016
+#EXTINF:-1 ,LBW: CBS Sports Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7017
+#EXTINF:-1 ,LBW: NHL Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7018
+#EXTINF:-1 ,LBW: NBA TV
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7019
+#EXTINF:-1 ,LBW: MLB Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7020
+#EXTINF:-1 ,LBW: Olympic Channel
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/7021
+#EXTINF:-1 ,LBW: A&E Network
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6394
+#EXTINF:-1 ,LBW: AMC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6396
+#EXTINF:-1 ,LBW: BET East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6399
+#EXTINF:-1 ,LBW: BET HER
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6402
+#EXTINF:-1 ,LBW: bravo
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6403
+#EXTINF:-1 ,LBW: CMT
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6409
+#EXTINF:-1 ,LBW: CNBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6410
+#EXTINF:-1 ,LBW: hallmark
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6432
+#EXTINF:-1 ,LBW: Hallmark Movies & Mysteries
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6433
+#EXTINF:-1 ,LBW: HLN
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6436
+#EXTINF:-1 ,LBW: IFC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6438
+#EXTINF:-1 ,LBW: lifetime
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6440
+#EXTINF:-1 ,LBW: Logo
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6441
+#EXTINF:-1 ,LBW: MSNBC
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6442
+#EXTINF:-1 ,LBW: MTV East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6446
+#EXTINF:-1 ,LBW: MTV Live
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6447
+#EXTINF:-1 ,LBW: Oxygen East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6461
+#EXTINF:-1 ,LBW: Paramount Network East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6463
+#EXTINF:-1 ,LBW: Sundance TV East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6471
+#EXTINF:-1 ,LBW: E! Entertainment TV East
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6501
+#EXTINF:-1 ,LBW-S: NBC Sports Washington
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6522
+#EXTINF:-1 ,SPORTS: TVG SD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6536
+#EXTINF:-1 ,SPORTS: TVG2 SD
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/6537
+#EXTINF:-1 ,TT: Hallmark Movies & Mysteries
+http://23.105.171.47:8000/Tstreamz2020/TaymilTSZ/9216
+#EXTINF:-1 ,(GR) Cosmote Sport 2 HD
+http://p.dtv.sx:80/live/visiontv/775142/19792.ts
+#EXTINF:-1 ,(GR) Cosmote Sport 3 HD
+http://p.dtv.sx:80/live/visiontv/775142/19791.ts
+#EXTINF:-1 ,(GR) Cosmote Sport 4 HD
+http://p.dtv.sx:80/live/visiontv/775142/19790.ts
+#EXTINF:-1 ,(GR) Cosmote Sport 5 HD
+http://p.dtv.sx:80/live/visiontv/775142/19789.ts
+#EXTINF:-1 ,(GR) Cosmote Sport 6 HD
+http://p.dtv.sx:80/live/visiontv/775142/19788.ts
+#EXTINF:-1 ,(GR) Cosmote Sport 7 HD
+http://p.dtv.sx:80/live/visiontv/775142/19787.ts
+#EXTINF:-1 ,(GR) Cosmote Cinema 1 HD
+http://p.dtv.sx:80/live/visiontv/775142/19779.ts
+#EXTINF:-1 ,(GR) Cosmote Cinema 2 HD
+http://p.dtv.sx:80/live/visiontv/775142/19778.ts
+#EXTINF:-1 ,(GR) Cosmote Cinema 3
+http://p.dtv.sx:80/live/visiontv/775142/19777.ts
+#EXTINF:-1 ,(GR) Cosmote Cinema 4 HD
+http://p.dtv.sx:80/live/visiontv/775142/19776.ts
+#EXTINF:-1 ,(GR) Village Cinema HD
+http://p.dtv.sx:80/live/visiontv/775142/19775.ts
+#EXTINF:-1 ,(GR) BBC Earth HD
+http://p.dtv.sx:80/live/visiontv/775142/19770.ts
+#EXTINF:-1 ,(GR) Cosmote History HD
+http://p.dtv.sx:80/live/visiontv/775142/19769.ts
+#EXTINF:-1 ,(GR) Outdoor Channel HD
+http://p.dtv.sx:80/live/visiontv/775142/19768.ts
+#EXTINF:-1 ,(GR) Fine Living HD
+http://p.dtv.sx:80/live/visiontv/775142/19766.ts
+#EXTINF:-1 ,(GR) Nickelodeon HD
+http://p.dtv.sx:80/live/visiontv/775142/19765.ts
+#EXTINF:-1 ,(GR) Disney Junior
+http://p.dtv.sx:80/live/visiontv/775142/19764.ts
+#EXTINF:-1 ,(GR) MAD Hits HD
+http://p.dtv.sx:80/live/visiontv/775142/19763.ts
+#EXTINF:-1 ,(GR) Open Beyond HD
+http://p.dtv.sx:80/live/visiontv/775142/17352.ts
+#EXTINF:-1 ,(GR) Travel Channel HD
+http://p.dtv.sx:80/live/visiontv/775142/17349.ts
+#EXTINF:-1 ,(GR) Tv 100
+http://p.dtv.sx:80/live/visiontv/775142/17344.ts
+#EXTINF:-1 ,(GR) Ionian TV
+http://p.dtv.sx:80/live/visiontv/775142/17343.ts
+#EXTINF:-1 ,(GR) EPT 1
+http://p.dtv.sx:80/live/visiontv/775142/17365.ts
+#EXTINF:-1 ,(GR) EPT 2
+http://p.dtv.sx:80/live/visiontv/775142/17364.ts
+#EXTINF:-1 ,(GR) EPT 3
+http://p.dtv.sx:80/live/visiontv/775142/17363.ts
+#EXTINF:-1 ,(GR) EPT Sports HD
+http://p.dtv.sx:80/live/visiontv/775142/19812.ts
+#EXTINF:-1 ,(GR) MEGA Channel
+http://p.dtv.sx:80/live/visiontv/775142/20758.ts
+#EXTINF:-1 ,(GR) ANT 1 HD
+http://p.dtv.sx:80/live/visiontv/775142/17360.ts
+#EXTINF:-1 ,(GR) Skai HD
+http://p.dtv.sx:80/live/visiontv/775142/17362.ts
+#EXTINF:-1 ,(GR) Star HD
+http://p.dtv.sx:80/live/visiontv/775142/17361.ts
+#EXTINF:-1 ,(GR) Alpha HD
+http://p.dtv.sx:80/live/visiontv/775142/17358.ts
+#EXTINF:-1 ,(GR) E! Entertainment HD
+http://p.dtv.sx:80/live/visiontv/775142/17350.ts
+#EXTINF:-1 ,(GR) Makedonia TV HD
+http://p.dtv.sx:80/live/visiontv/775142/17354.ts
+#EXTINF:-1 ,(GR) 4E TV
+http://p.dtv.sx:80/live/visiontv/775142/17351.ts
+#EXTINF:-1 ,(GR) Mad TV
+http://p.dtv.sx:80/live/visiontv/775142/19809.ts
+#EXTINF:-1 ,(GR) Kontra
+http://p.dtv.sx:80/live/visiontv/775142/19810.ts
+#EXTINF:-1 ,(GR) Extra
+http://p.dtv.sx:80/live/visiontv/775142/19811.ts
+#EXTINF:-1 ,(GR) Vouli
+http://p.dtv.sx:80/live/visiontv/775142/19800.ts
+#EXTINF:-1 ,(GR) ANT 1
+http://p.dtv.sx:80/live/visiontv/775142/19798.ts
+#EXTINF:-1 ,(GR) Skai
+http://p.dtv.sx:80/live/visiontv/775142/19795.ts
+#EXTINF:-1 ,(GR) Star
+http://p.dtv.sx:80/live/visiontv/775142/19794.ts
+#EXTINF:-1 ,(GR) Alph
+http://p.dtv.sx:80/live/visiontv/775142/19799.ts
+#EXTINF:-1 ,(GR) Makedonia
+http://p.dtv.sx:80/live/visiontv/775142/19796.ts
+#EXTINF:-1 ,(GR) Kontra TV
+http://p.dtv.sx:80/live/visiontv/775142/17345.ts
+#EXTINF:-1 ,(GR) Action 24
+http://p.dtv.sx:80/live/visiontv/775142/19808.ts
+#EXTINF:-1 ,(GR) Attica
+http://p.dtv.sx:80/live/visiontv/775142/19807.ts
+#EXTINF:-1 ,(GR) Channel 9
+http://p.dtv.sx:80/live/visiontv/775142/19805.ts
+#EXTINF:-1 ,(GR) Rise
+http://p.dtv.sx:80/live/visiontv/775142/19804.ts
+#EXTINF:-1 ,(GR) Nick
+http://p.dtv.sx:80/live/visiontv/775142/19803.ts
+#EXTINF:-1 ,(GR) Alert
+http://p.dtv.sx:80/live/visiontv/775142/19802.ts
+#EXTINF:-1 ,(GR) Smile
+http://p.dtv.sx:80/live/visiontv/775142/19801.ts
+#EXTINF:-1 ,GR | ERTPLAY 1
+http://p.dtv.sx:80/live/visiontv/775142/21840.ts
+#EXTINF:-1 ,GR | ERTPLAY 2
+http://p.dtv.sx:80/live/visiontv/775142/21841.ts
+#EXTINF:-1 ,GR | ERTPLAY 3
+http://p.dtv.sx:80/live/visiontv/775142/21842.ts
+#EXTINF:-1 ,(GR) Nova Cinema 1 HD
+http://p.dtv.sx:80/live/visiontv/775142/20762.ts
+#EXTINF:-1 ,(GR) Nova Cinema 2 HD
+http://p.dtv.sx:80/live/visiontv/775142/20763.ts
+#EXTINF:-1 ,(GR) Nova Cinema 3 HD
+http://p.dtv.sx:80/live/visiontv/775142/20764.ts
+#EXTINF:-1 ,(GR) Nova Cinema 4 HD
+http://p.dtv.sx:80/live/visiontv/775142/20765.ts
+#EXTINF:-1 ,(GR) Nova Premiere1 HD
+http://p.dtv.sx:80/live/visiontv/775142/20766.ts
+#EXTINF:-1 ,(GR) Cosmote Sport 1 HD
+http://p.dtv.sx:80/live/visiontv/775142/19793.ts
+#EXTINF:-1 ,(GR) Sigma TV
+http://p.dtv.sx:80/live/visiontv/775142/20761.ts
+#EXTINF:-1 ,GR | ERTPLAY 4
+http://p.dtv.sx:80/live/visiontv/775142/21843.ts
+#EXTINF:-1 ,(GR) Nova Sport 1 HD
+http://p.dtv.sx:80/live/visiontv/775142/20767.ts
+#EXTINF:-1 ,(GR) Nova Sport 2 HD
+http://p.dtv.sx:80/live/visiontv/775142/20768.ts
+#EXTINF:-1 ,(GR) Nova Sport 3 HD
+http://p.dtv.sx:80/live/visiontv/775142/20769.ts
+#EXTINF:-1 ,(GR) Nova Sport 4 HD
+http://p.dtv.sx:80/live/visiontv/775142/20770.ts
+#EXTINF:-1 ,BHT 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/889
+#EXTINF:-1 ,FTV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/864
+#EXTINF:-1 ,RTRS
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/771
+#EXTINF:-1 ,RTV CAZIN
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/765
+#EXTINF:-1 ,ATV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/892
+#EXTINF:-1 ,HAYAT BH
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/861
+#EXTINF:-1 ,HAPPY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/862
+#EXTINF:-1 ,OTV VALENTINO
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/837
+#EXTINF:-1 ,BN TV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/886
+#EXTINF:-1 ,RTS1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/767
+#EXTINF:-1 ,BN MUSIC
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/887
+#EXTINF:-1 ,HRT 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/854
+#EXTINF:-1 ,HRT2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/852
+#EXTINF:-1 ,OBN
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/839
+#EXTINF:-1 ,DMSAT
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/876
+#EXTINF:-1 ,HAYAT FOLK
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/860
+#EXTINF:-1 ,RTL HRVATSKA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/778
+#EXTINF:-1 ,RTL 2 HRVATSKA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/780
+#EXTINF:-1 ,DOMA TV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/875
+#EXTINF:-1 ,ALJAZEERA BALKANS
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/900
+#EXTINF:-1 ,NAT GEOGRAPHIC
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/842
+#EXTINF:-1 ,VIASAT HISTORY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/745
+#EXTINF:-1 ,VIASAT EXPLORER
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/746
+#EXTINF:-1 ,VIASAT NATURE
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/744
+#EXTINF:-1 ,RTL GERMANY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/779
+#EXTINF:-1 ,RTL2 GERMANY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/774
+#EXTINF:-1 ,SUPER RTL
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/756
+#EXTINF:-1 ,KIKA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/845
+#EXTINF:-1 ,PRO7
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/783
+#EXTINF:-1 ,VOX
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/742
+#EXTINF:-1 ,VH1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/748
+#EXTINF:-1 ,VH1 CLASSIC
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/747
+#EXTINF:-1 ,MTV ADRIA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/844
+#EXTINF:-1 ,CMC
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/882
+#EXTINF:-1 ,EUROSPORT 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/871
+#EXTINF:-1 ,EUROSPORT 2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/870
+#EXTINF:-1 ,ARENA SPORT 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/898
+#EXTINF:-1 ,ARENA SPORT1 HR
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/893
+#EXTINF:-1 ,ARENA SPORT 2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/897
+#EXTINF:-1 ,ARENA SPORT 3
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/896
+#EXTINF:-1 ,ARENA SPORT 4
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/895
+#EXTINF:-1 ,ARENA SPORT 5
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/894
+#EXTINF:-1 ,SPORTSKA TV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/757
+#EXTINF:-1 ,TELEVIZIJA 5 HD
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/755
+#EXTINF:-1 ,HAYATOVCI
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/855
+#EXTINF:-1 ,RTL KOCKICA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/777
+#EXTINF:-1 ,HRT3
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/850
+#EXTINF:-1 ,RTS SAT
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/768
+#EXTINF:-1 ,RTRS PLUS
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/770
+#EXTINF:-1 ,RTV HIT
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/764
+#EXTINF:-1 ,RTL LIVING
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/776
+#EXTINF:-1 ,HAYAT PLUS
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/858
+#EXTINF:-1 ,N-TV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/843
+#EXTINF:-1 ,PINK WORLD
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/787
+#EXTINF:-1 ,HAYAT MUSIC
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/859
+#EXTINF:-1 ,PINKNROLL
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/784
+#EXTINF:-1 ,RTL NITRO
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/775
+#EXTINF:-1 ,KABEL 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/846
+#EXTINF:-1 ,PINK 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/836
+#EXTINF:-1 ,PINK 2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/835
+#EXTINF:-1 ,PINK 3
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/834
+#EXTINF:-1 ,PINK ACTION
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/833
+#EXTINF:-1 ,PINK BRAVO
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/832
+#EXTINF:-1 ,PINK CLASSIC
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/831
+#EXTINF:-1 ,PINK COMEDY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/830
+#EXTINF:-1 ,PINK CRIME & MYSTERY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/829
+#EXTINF:-1 ,PINK EROTIC 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/828
+#EXTINF:-1 ,PINK EROTIC 2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/827
+#EXTINF:-1 ,PINK EROTIC 3
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/826
+#EXTINF:-1 ,PINK EROTIC 4
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/825
+#EXTINF:-1 ,PINK EROTIC 5
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/824
+#EXTINF:-1 ,PINK EROTIC 6
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/823
+#EXTINF:-1 ,PINK EROTIC 7
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/822
+#EXTINF:-1 ,PINK EROTIC 8
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/821
+#EXTINF:-1 ,PINK EXTRA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/820
+#EXTINF:-1 ,PINK FAMILY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/819
+#EXTINF:-1 ,PINK FASHION
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/818
+#EXTINF:-1 ,PINK FIGHT NETWORK
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/817
+#EXTINF:-1 ,PINK FILM
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/816
+#EXTINF:-1 ,PINK FOLK 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/815
+#EXTINF:-1 ,PINK FOLK 2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/814
+#EXTINF:-1 ,PINK HAHA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/813
+#EXTINF:-1 ,PINK HITS
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/812
+#EXTINF:-1 ,PINK HITS2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/811
+#EXTINF:-1 ,PINK HORROR
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/810
+#EXTINF:-1 ,PINK KIDS
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/809
+#EXTINF:-1 ,PINK KONCERT
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/808
+#EXTINF:-1 ,PINK KUVAR
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/807
+#EXTINF:-1 ,PINK LOL
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/806
+#EXTINF:-1 ,PINK MOVIES
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/805
+#EXTINF:-1 ,PINK MUSIC
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/804
+#EXTINF:-1 ,PINK MUSIC2
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/803
+#EXTINF:-1 ,PINK PARADA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/801
+#EXTINF:-1 ,PINK PEDIA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/800
+#EXTINF:-1 ,PINK PLUS
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/799
+#EXTINF:-1 ,PINK PREMIUM
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/798
+#EXTINF:-1 ,PINK REALITY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/797
+#EXTINF:-1 ,PINK ROMANCE
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/796
+#EXTINF:-1 ,PINK SCIFI & FANTASY
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/795
+#EXTINF:-1 ,PINK SERIJE
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/794
+#EXTINF:-1 ,PINK SHOW
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/793
+#EXTINF:-1 ,PINK SOAP
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/792
+#EXTINF:-1 ,PINK STYLE
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/791
+#EXTINF:-1 ,PINK SUPER KIDS
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/790
+#EXTINF:-1 ,PINK THRILLER
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/789
+#EXTINF:-1 ,PINK WESTERN
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/788
+#EXTINF:-1 ,PINK WORLD CINEMA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/786
+#EXTINF:-1 ,PINK ZABAVA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/785
+#EXTINF:-1 ,SPORT 1
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/758
+#EXTINF:-1 ,TV SEHARA HD
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/903
+#EXTINF:-1 ,OTV ETNO TV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/905
+#EXTINF:-1 ,OTV FOLK TV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/904
+#EXTINF:-1 ,BALKANIKA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/907
+#EXTINF:-1 ,RSG RADIO
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/908
+#EXTINF:-1 ,RADIO MIX
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/909
+#EXTINF:-1 ,RADIO RTV USK
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/910
+#EXTINF:-1 ,RADIO 1 DOLENJSKA REGIJA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/929
+#EXTINF:-1 ,RADIO 1 GORENJSKA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/925
+#EXTINF:-1 ,RADIO 1 LJUBLJANA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/924
+#EXTINF:-1 ,RADIO 1 MARIBOR
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/926
+#EXTINF:-1 ,RADIO 1 OBALA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/927
+#EXTINF:-1 ,RADIO 1 PRIMORSKA
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/928
+#EXTINF:-1 ,K3 TV
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/938
+#EXTINF:-1 ,TV DOBOJ
+http://cdn1.stbconnect.com:25461/VROVQVALYX/TLIouEBlcB/939
