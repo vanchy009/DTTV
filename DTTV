@@ -25,6 +25,8 @@ http://203.176.130.123:8989/live/tv5_480k.stream/chunklist_w1394118575.m3u8
 http://96.9.77.79:1935/live/SEATV/chunklist_w1661522455.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/PNN.png",PNN
 http://36.37.252.116:7788/live/OneTV-019.m3u8
+#EXTINF: group-title="Cambodia" tvg-logo="https://cambodia.mom-rsf.org/typo3temp/_processed_/6/a/csm_16-400_import_afa473259c.jpg",CTV8 Cambodia
+http://220.158.149.26:8182/hls/TV00000000000000000142@HHZT.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/TV9-Cambodia.png",TV9 Cambodia
 http://36.37.252.116:7788/live/OneTV-022.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/Apsara.png",APSARATV
@@ -60,7 +62,7 @@ http://36.37.252.114:888/Apple/OneTV-055/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DTH/OneTV-Sports-9_logo_04_06_2018_9.png",One TV Eschool
 http://36.37.252.116:7788/live/OneTV-013.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://radio.xn--v3cicq7c.com/wp-content/uploads/2017/11/msj-tv.png",MSJ TV
-rtmp://124.248.165.18:1935/live/myStream playpath=myStream swfUrl=http://msjtv.asia/Scripts/player/6.11/player.flash.swf live=true
+http://124.248.165.18:1935/live/myStream.smil/chunklist_w1419427211_b2260000_sleng.m3u8
 #EXTINF: group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",,AnimaxTV
 http://210.210.155.35/session/4db2efc6-cad3-11ea-a54b-80eeb733f38a/dr9445/h/h144/01.m3u8
 #EXTINF:-1 group-title="Japanese" tvg-logo="https://i.imgur.com/rXrSsiI.jpg",CGNTV Japan
