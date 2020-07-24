@@ -14,7 +14,7 @@ http://206.189.93.160:1935/live/myStream_720p/chunklist_w30966956.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/CTN-Cambodia.png",CTN
 http://36.37.252.114:888/Apple/OneTV-008/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/MYTV-Cambodia.png",MYTV
-http://36.37.252.116:7788/live/OneTV-009.m3u8
+http://203.144.66.242/live/live009/s.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/CNC-Cambodia.png",CNC
 http://36.37.252.114:888/Apple/OneTV-010/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/OneTV-Sabay.png",One tv Sabay
