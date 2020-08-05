@@ -17,6 +17,8 @@ http://36.37.252.114:888/Apple/OneTV-008/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-009/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/CNC-Cambodia.png",CNC
 http://36.37.252.114:888/Apple/OneTV-010/playlist.m3u8
+#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/OneTV-Sabay.png",One tv Sabay
+http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/TV5-Cambodia.png",TV5 Cambodia
 http://203.176.130.123:8989/live/tv5_480k.stream/chunklist_w1394118575.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/SeaTV.png",SEATV
