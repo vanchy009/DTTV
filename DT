@@ -38,7 +38,7 @@ http://178.128.26.123:1935/elearning/SMIL:myStream.smil/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/TV3-Cambodia.png",TV3 Cambodia
 http://36.37.252.114:888/Apple/OneTV-020/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/ETV-Cambodia.png",ETV Cambodia
-http://34.121.235.197:9217/pak2020/arydigital/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMCAxOjE0OjE3IEFNJmhhc2hfdmFsdWU9cy9QQ0FrWUdFYTRkRHd2SlVOVXBBZz09JnZhbGlkbWludXRlcz01
+http://35.226.89.21:8877/usa2020/hbozone/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMCAxOjQ0OjE2IEFNJmhhc2hfdmFsdWU9VHhhYytyeGUrcXM5Y0ZVV3M3dzN6Zz09JnZhbGlkbWludXRlcz0y
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/NTV-Cambodia.png",NTV
 http://36.37.252.114:888/Apple/OneTV-023/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/Town-TV.png",Town TV HD
