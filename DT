@@ -38,7 +38,7 @@ http://178.128.26.123:1935/elearning/SMIL:myStream.smil/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/TV3-Cambodia.png",TV3 Cambodia
 http://36.37.252.114:888/Apple/OneTV-020/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/ETV-Cambodia.png",ETV Cambodia
-http://203.176.130.123:8989/live/etv_480k.stream/playlist.m3u8
+http://dpasdl08.tth.cl:8745/eros/encartoonnetworkhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMCAxMjo0MzozNSBBTSZoYXNoX3ZhbHVlPWxqdW41Z3l0enFuWGpLUnVLUDlnTkE9PSZ2YWxpZG1pbnV0ZXM9Mg==
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/NTV-Cambodia.png",NTV
 http://36.37.252.114:888/Apple/OneTV-023/playlist.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/Town-TV.png",Town TV HD
