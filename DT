@@ -1,64 +1,6 @@
-#EXTM3U
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/BTV-News-Cambodia.png",BTV
-http://36.37.252.114:888/Apple/OneTV-012/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/BayonTV.png",Bayon TV
-http://36.37.252.114:888/Apple/OneTV-011/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/c4/3f/2f/c43f2fb2-49bd-0436-2e63-958b4dce0537/AppIcon-0-1x_U007emarketing-0-0-85-220-2.png/1200x630wa.png",Fresh News TV
-http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/Hang-Meas.png",HangMeas
-http://malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/chunklist_w660255627_b1800000_sleng.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/Rasmey-Hang-Meas.png",Resmey HangMeas
-http://malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/chunklist_w507539696_b1800000_sleng.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/f4/e4/e3/f4e4e334-2fb4-6509-1a37-51e167fd7dfa/source/512x512bb.jpg",WIKI TV
-http://206.189.93.160:1935/live/myStream_720p/chunklist_w30966956.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/CTN-Cambodia.png",CTN
-http://36.37.252.114:888/Apple/OneTV-008/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/MYTV-Cambodia.png",MYTV
-http://36.37.252.114:888/Apple/OneTV-009/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/CNC-Cambodia.png",CNC
-http://36.37.252.114:888/Apple/OneTV-010/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/OneTV-Sabay.png",One tv Sabay
-http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/TV5-Cambodia.png",TV5 Cambodia
-http://203.176.130.123:8989/live/tv5_480k.stream/chunklist_w1394118575.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/SeaTV.png",SEATV
-http://96.9.77.79:1935/live/SEATV/chunklist_w1661522455.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/PNN.png",PNN
-http://36.37.252.114:888/Apple/OneTV-019/playlist.m3u8
-EXTINF: group-title="Cambodia" tvg-logo="https://2.bp.blogspot.com/-4cWMH4_dGlM/Vpw_reGFMOI/AAAAAAAAAns/CV15ssST9KI/s1600/CTV8-CHANNEL.jpg",CTV8 Cambodia
-http://220.158.149.26:8182/hls/TV00000000000000000142@HHZT.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/TV9-Cambodia.png",TV9 Cambodia
-http://36.37.252.114:888/Apple/OneTV-022/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/Apsara.png",APSARATV
-http://36.37.252.114:888/Apple/OneTV-018/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/TVK.png",TVK
-http://36.37.252.114:888/Apple/OneTV-017/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/TVK.png",TVK 2
-http://178.128.26.123:1935/elearning/SMIL:myStream.smil/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/TV3-Cambodia.png",TV3 Cambodia
-http://36.37.252.114:888/Apple/OneTV-020/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/NTV-Cambodia.png",NTV
-http://36.37.252.114:888/Apple/OneTV-023/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/Town-TV.png",Town TV HD
-http://36.37.252.114:888/Apple/OneTV-024/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/OneTV-Cinema.png",One TV Cinema
-http://36.37.252.114:888/Apple/OneTV-004/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/OneTV-Drama.png",One TV Drama
-http://36.37.252.114:888/Apple/OneTV-003/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/OneTV-Kids.png",One TV Kids
-http://36.37.252.114:888/Apple/OneTV-002/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/OneTV-Music.png",One TV Music
-http://36.37.252.114:888/Apple/OneTV-006/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DTH/OneTV-Discovery.png",One TV Discovery
-http://36.37.252.114:888/Apple/OneTV-007/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/OneTV-Cinema.png",One TV Movie
-http://36.37.252.114:888/Apple/OneTV-005/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DTH/OneTV-Sports-9_logo_04_06_2018_9.png",,One TV Sport
-http://36.37.252.114:888/Apple/OneTV-058/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DTH/OneTV-Sports-9_logo_04_06_2018_9.png",One TV Sport 11
-http://36.37.252.114:888/Apple/OneTV-055/playlist.m3u8
-#EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DTH/OneTV-Sports-9_logo_04_06_2018_9.png",One TV Eschool
-http://36.37.252.116:7788/live/OneTV-013.m3u8
+#EXTM3U"
+
+
 #EXTINF: group-title="Cambodia" tvg-logo="http://radio.xn--v3cicq7c.com/wp-content/uploads/2017/11/msj-tv.png",MSJ TV
 http://124.248.165.18:1935/live/myStream.smil/chunklist_w1419427211_b2260000_sleng.m3u8
 #EXTINF: group-title="Cambodia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",,AnimaxTV
