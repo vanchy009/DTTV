@@ -1,9 +1,12 @@
 #EXTINF: group-title="Cambodia" tvg-logo="http://digitalsky.com.kh/uploads/channel/DVB-T/BTV-News-Cambodia.png",BTV
 http://36.37.252.114:888/Apple/OneTV-012/playlist.m3u8
-$c_start马新$c_end
+#EXTINF: group-title="Cambodia"
 AEC-2,tvbus://6hceEo3SMnTG5m7CG2ZakyWbfgG1ZmtNukkaE8mSpCNrnmf3EVovACCdyEUN3#tvbus://5Kvp549VCkiqZ2rGEgubPevAhQ4KtMaNf7tPb9VM4vfWtmLQa7wV2NZ71bpJq#tvbus://6L2keFB3TzqTqR4Y3b3jgqTG2V4yPYSs6tbPp2tv1rjx8njTRyi6Dumq26Ehe
+#EXTINF: group-title="Cambodia"
 AEC-1,https://nonton.site:8443/novi/novi123/38718
+#EXTINF: group-title="Cambodia"
 AEC(Delay),http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8#https://cmt.mb13.cyou/c/my/astroaec.m3u8
+#EXTINF: group-title="Cambodia"
 全佳,tvbus://61XJ6FKo7WXX8qmJTjsiy31pFaDLPCpUvGJXiRinmDa7TPnRJJgr7NTxh2J4m#P2p://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts
 全佳,https://nonton.site:8443/novi/novi123/38787#http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 爱奇艺,tvbus://66FRpocmtD6gMwzcvdFBh66GfamAqyNA5s1b9FrEKnuUnjQXsQn7zs6YAR55g
